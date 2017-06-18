@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Oscar Chaparro, Ph.D. Candidate"
+title                    : "Oscar Chaparro"
 title_separator          : "-"
 name                     : &name "Oscar Chaparro"
 description              : &description "Ph.D. Candidate at The University of Texas at Dallas"
@@ -83,20 +83,21 @@ author:
   location         : "Richardson, TX, USA"
   employer         : 
   googlescholar    : "https://scholar.google.com/citations?user=B90VFVYAAAAJ&hl=en"
-  email            : "ojchaparro at utdallas dot edu"
+  dblp    : "http://dblp.uni-trier.de/pers/hd/c/Chaparro:Oscar"
+  email            : "ojchaparro@utdallas.edu"
   uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "https://www.facebook.com/ojchaparroa"
+  facebook         : "ojchaparroa"
   foursquare       :
   github           : "ojcchar"
   google_plus      :
   keybase          :
   instagram        : 
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/ojchaparroa"
+  linkedin         : "ojchaparroa"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
