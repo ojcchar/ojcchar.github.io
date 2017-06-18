@@ -1,5 +1,5 @@
 ---
-title: "Improving Bug Reporting, Duplicate Detection, and Localization"
+title: "Using Observed Behavior to Reformulate Queries during Text Retrieval-based Bug Localization"
 collection: publications
 permalink: /publication/9-icsme17
 date: 2017-11-01
