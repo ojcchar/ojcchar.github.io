@@ -1,7 +1,7 @@
 ---
 title: "CS/SE 3354 - Software Engineering"
+no-link: true
 collection: teaching
 type: "Undergraduate course"
-venue: "The University of Texas at Dallas"
 date: 2016-08-19
 ---
