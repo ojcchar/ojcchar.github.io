@@ -1,7 +1,7 @@
 ---
 title: "Reverse Engineering in Procedural Software Evolution"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/1-book-chapter-re
 date: 2012-10-01
 venue: 'Research topics in software evolution and maintenance, Universidad Nacional de Colombia'
 ---
