@@ -2,7 +2,6 @@
 title: "Semiautomatic Reverse Engineering Tool on Oracle Forms Information Systems"
 collection: theses
 permalink: /publication/2012-12-01-master-thesis
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2012-12-01
 venue: 'Universidad Nacional de Colombia'
 
