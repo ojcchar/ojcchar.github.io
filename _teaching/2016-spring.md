@@ -2,7 +2,7 @@
 title: "Spring 2016 (UTD)"
 collection: teaching
 venue: ""
-date: 2016-08-19
+date: 2016-01-19
 ---
 
 * CS/SE 3354 - Software Engineering (Undergraduate course)
