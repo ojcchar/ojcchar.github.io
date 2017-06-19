@@ -10,7 +10,13 @@ main:
     url: /teaching/    
 
   - title: "Service"
-    url: /service/  
+    url: /service/     
+
+  - title: "Awards"
+    url: /awards/    
+
+  - title: "Contact"
+    url: /contact/ 
     
  # - title: "Portfolio"
  #   url: /portfolio/
