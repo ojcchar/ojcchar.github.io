@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-Interested in my CV? Please email me to get more information about it.
+Interested in my CV? Please email me to request it.
