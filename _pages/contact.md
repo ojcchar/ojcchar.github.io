@@ -5,7 +5,7 @@ excerpt: "Contact me"
 author_profile: true
 ---
 
-This is my contact information.
+This is my contact information:
 
 Oscar Chaparro  
 ojchaparroa [at] utdallas [dot] edu  

@@ -5,7 +5,7 @@ excerpt: "Awards"
 author_profile: true
 ---
 
-Throughout my academic career I have received the following awards and honors: 
+Throughout my academic career I have received the following honors and awards: 
 
 * ICSE Travel Award, U.S. National Science Foundation, 2017
 * ICSME Student Travel Grant, U.S. National Science Foundation, 2016
