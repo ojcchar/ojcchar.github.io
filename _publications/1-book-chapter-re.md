@@ -5,5 +5,4 @@ permalink: /publication/1-book-chapter-re
 date: 2012-10-01
 venue: 'Research topics in software evolution and maintenance, Universidad Nacional de Colombia'
 ---
-
-[Download the book chapter here](https://books.google.com/books/about/Research_topics_in_software_evolution_an.html?id=KW5B8y0OWWEC)
+[[PDF]](https://books.google.com/books/about/Research_topics_in_software_evolution_an.html?id=KW5B8y0OWWEC){:target="_blank"}
