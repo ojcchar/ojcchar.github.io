@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-A list of all the pages found in this web site.
+A list of all the pages found in this site.
 
 <h2>Pages</h2>
 {% for post in site.pages %}

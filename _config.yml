@@ -141,6 +141,7 @@ exclude:
   - README
   - markdown_generator
   - talkmap
+  - _posts
 keep_files:
   - .git
   - .svn
