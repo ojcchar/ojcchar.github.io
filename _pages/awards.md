@@ -6,6 +6,7 @@ author_profile: true
 
 Throughout my academic career I have received the following honors and awards: 
 
+* SWAM Travel Award, U.S. National Science Foundation, 2017
 * ICSE Travel Award, U.S. National Science Foundation, 2017
 * ICSME Student Travel Grant, U.S. National Science Foundation, 2016
 * ICSE Travel Award, U.S. National Science Foundation, 2016
