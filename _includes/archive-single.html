@@ -39,7 +39,7 @@
     {% endif %}
 	
 	{% if post.authors %}
-      <p>By <i>{{ post.authors | markdownify  }}</i></p>
+      <p>{{ "By" | append: post.authors | markdownify  }}</p>
 	{% endif %}
     
     {% if post.venue and post.date %}

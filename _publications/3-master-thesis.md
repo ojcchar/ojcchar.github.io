@@ -4,6 +4,6 @@ collection: theses
 permalink: /publication/3-master-thesis
 date: 2012-12-01
 venue: 'Universidad Nacional de Colombia'
-
+authors: "**Oscar Chaparro**"
 ---
 [[PDF]](http://www.bdigital.unal.edu.co/11939/1/300403.2012.pdf){:target="_blank"}
