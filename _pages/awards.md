@@ -6,6 +6,7 @@ author_profile: true
 
 Throughout my academic career I have received the following honors and awards: 
 
+* Dissertation Research Award, The University of Texas at Dallas, 2018
 * IEEE TCSE Distinguished Paper Award, at the 33rd IEEE International Conference on Software Maintenance and Evolution, 2017
 * SWAN Travel Award, U.S. National Science Foundation, 2017
 * ICSE Travel Award, U.S. National Science Foundation, 2017
