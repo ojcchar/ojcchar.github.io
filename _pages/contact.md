@@ -1,10 +1,8 @@
 ---
 permalink: /contact/
-title: "Contact"
+title: "Contact Information"
 author_profile: true
 ---
-
-This is my contact information:
 
 Oscar Chaparro  
 ojchaparroa [at] utdallas [dot] edu  

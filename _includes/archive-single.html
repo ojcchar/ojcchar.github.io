@@ -39,26 +39,51 @@
     {% endif %}
 	
 	{% if post.authors %}
-      <p>{{ "By "| append:"*" | append: post.authors | append:"*" |  markdownify  }}</p>
+      <p>{{ ""| append: post.authors  |  markdownify  }}</p>
 	{% endif %}
     
     {% if post.venue and post.date %}
-      <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+      <p>{{ post.venue }}
+		{% if post.venue_acronym %}
+		<b>({{ post.venue_acronym }})</b>
+		{% endif %}
+	  </p>
     {% elsif post.date %}
       <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
     {% endif %}
 	
-    {% if post.excerpt %}
-    <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
+    <p class="archive_link_info">
+	
+		{% if post.track %}
+			{{ post.track }}, 
+	    {% endif %}
+		{% if post.pages %}
+			pp. {{ post.pages }}, 
+	    {% endif %}
+		<b>{{ post.date | default: "1900-01-01" | date: "%Y" }}</b>
+	  
+		 {% if post.paperurl %} - 
+		  <a href="{{ post.paperurl }}" style="color:{{ $link-color }}"  target="_blank">[PDF]</a>
+		  {% if post.package %}
+		   <a href="{{ post.package }}" style="color:{{ $link-color }}" target="_blank">[Replication package]</a>
+		  {% endif %}
+		{% endif %}
+	
+	</p>
+    
+	
+    {% if post.notes %}
+    <p>{{ post.notes |  markdownify }}</p>
     {% endif %}
+	
     
     {% if post.citation and post.paperurl %}
       <p>Recommended citation: {{ post.citation }} <a href="{{ post.paperurl }}"><u>{{ post.paperurl }}</u></a></p>
     {% elsif post.citation %}
       <p>Recommended citation: {{ post.citation }} </p>
-    {% elsif post.paperurl %}
-      <p>Download <a href=" {{ post.paperurl }} "><u>here</u></a></p>
     {% endif %}
+	
+	
 
   </article>
 </div>

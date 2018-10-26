@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-These are the courses where I have taught as Teaching Assistant:
+I have been Teaching Assistant for the following courses at The University of Texas at Dallas (UTD):
 
 {% for post in site.teaching reversed %}
   {% include teaching-single.html %}

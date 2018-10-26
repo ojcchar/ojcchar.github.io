@@ -13,7 +13,7 @@ name                     : &name "Oscar Chaparro"
 description              : &description "Ph.D. Candidate at The University of Texas at Dallas"
 url                      : https://ojcchar.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "ojcchar.github.io"
+repository               : "ojcchar/ojcchar.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -83,14 +83,14 @@ author:
   location         : 
   employer         : 
   googlescholar    : "https://scholar.google.com/citations?user=B90VFVYAAAAJ&hl=en"
-  dblp    : "http://dblp.uni-trier.de/pers/hd/c/Chaparro:Oscar"
-  email            : 
+  dblp             : "http://dblp.uni-trier.de/pers/hd/c/Chaparro:Oscar"
+  email            : "ojchaparroa [at] utdallas [dot] edu"
   uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "ojchaparroa"
+  facebook         : 
   foursquare       :
   github           : "ojcchar"
   google_plus      :
@@ -104,7 +104,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "ojcchar"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
@@ -261,7 +261,7 @@ timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database
 
 
 # Plugins
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist

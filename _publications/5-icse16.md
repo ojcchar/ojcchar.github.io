@@ -1,9 +1,18 @@
 ---
-title: "On the Reduction of Verbose Queries in Text Retrieval Based Software Maintenance"
 collection: publications
 permalink: /publication/5-icse16
-date: 2016-06-01
-venue: "Proceedings of the 38th IEEE/ACM International Conference on Software Engineering (ICSE'16), pp. 716-718 - Poster track"
-authors: "**Oscar Chaparro**, Gabriele Bavota, Andrian Marcus, and Massimiliano Di Penta"
+
+title: "On the Reduction of Verbose Queries in Text Retrieval Based Software Maintenance"
+authors: "**Oscar Chaparro** and Andrian Marcus"
+venue: "Proceedings of the 38th IEEE/ACM International Conference on Software Engineering"
+venue_acronym: "ICSE'16"
+track: "NIER track"
+pages: "716–718"
+date: 2016-02-01
+
+paperurl: /files/5-icse16.pdf
+package: https://seers.utdallas.edu/projects/query-reduction-poster/
+notes:
 ---
-[[PDF]](/files/5-icse16.pdf){:target="_blank"} [[Replication package]](https://seers.utdallas.edu/projects/query-reduction-poster/){:target="_blank"}
+
+**Abstract:** We argue that verbose queries used for software retrieval contain many terms that follow specific discourse rules, yet hinder retrieval. We report the results of an empirical study on the effect of removing such terms from verbose queries in the context of Text Retrieval-based concept location. In the study, we remove terms from 424 queries, generated from bug reports of nine open source systems. Removing the terms leads to substantial improvement in retrieval: 73% of the queries are improved, leading to 21.8% and 13.4% gain in terms of MRR and MAP, respectively. Such improvement is larger than that of many more sophisticated state-of-the art approaches. The results show promise and the future challenge lies with automatically identifying the terms to be removed from the verbose queries.
