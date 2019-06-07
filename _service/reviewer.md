@@ -1,5 +1,5 @@
 ---
-title: "External reviewer"
+title: "Reviewer and Co-reviewer"
 collection: service
 venue: ""
 date: 2016-02-19
@@ -10,5 +10,6 @@ date: 2016-02-19
 * IEEE Intl. Conf. on Program Comprehension (ICPC): 2016
 * IEEE Intl. Conf. on Software Analysis, Evolution, and Reengineering (SANER): 2015, 2016
 * IEEE Work. Conf. on Mining Software Repositories (MSR): 2015, 2016
-* IEEE Transactions on Software Engineering (TSE)
-* Empirical Software Engineering  (EMSE - Springer)
+* IEEE Transactions on Software Engineering (TSE) - IEEE CS 
+* Empirical Software Engineering (EMSE) - Springer  
+* Journal of Systems and Software (JSS) - Elsevier 
