@@ -10,7 +10,7 @@ track: 'Master thesis'
 pages:
 date: 2012-11-01
 
-paperurl: http://www.bdigital.unal.edu.co/11939/1/300403.2012.pdf
+paperurl: /files/3-master-thesis.pdf
 notes:
 ---
 

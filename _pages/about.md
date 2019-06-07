@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-***LATEST NEWS:*** **I am on the academic job market for Fall 2019. Please contact me if you are hiring or know of any openings (ojchaparroa [at] utdallas [dot] edu).**
+***LATEST NEWS:*** **I will join the [Computer Science Department](https://www.wm.edu/as/computerscience/?svr=web){:target="_blank"} at the [College of William and Mary](https://www.wm.edu/){:target="_blank"} in the fall as an Assistant Professor.**
 
 Hi there! I am Oscar, a Software Engineering Ph.D. Candidate in the [Department of Computer Science](http://cs.utdallas.edu/){:target="_blank"} at [The University of Texas at Dallas](http://www.utdallas.edu/){:target="_blank"}. My advisor is Dr. [Andrian Marcus](http://www.utdallas.edu/~amarcus/){:target="_blank"}, and I am member of the [Software Evolution Research Group (SEERS)](https://seers.utdallas.edu){:target="_blank"}.
 

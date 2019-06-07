@@ -4,8 +4,7 @@ title: "Honors and Awards"
 author_profile: true
 ---
 
-I have received the following honors and awards: 
-
+* ACM SIGSOFT Distinguished Paper Award, at the 27th ACM Joint Meeting on the Foundations of Software Engineering (ESEC/FSE'19), 2019
 * Dissertation Research Award ($5,000), The University of Texas at Dallas, 2018
 * IEEE TCSE Distinguished Paper Award, at the 33rd IEEE International Conference on Software Maintenance and Evolution (ICSME'17), 2017
 * Thomas C. Rumble graduate fellowship ($20,000), Wayne State University, 2013

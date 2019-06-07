@@ -65,9 +65,9 @@
 	    {% endif %}
 	  
 		 {% if post.paperurl %} - 
-		  <a href="{{ post.paperurl }}" style="color:{{ $link-color }}"  target="_blank">[PDF]</a>
+		  <a href="{{ post.paperurl }}" style="color:{{ $link-color }}"  target="_blank">[pdf]</a>
 		  {% if post.package %}
-		   <a href="{{ post.package }}" style="color:{{ $link-color }}" target="_blank">[Replication package]</a>
+		   <a href="{{ post.package }}" style="color:{{ $link-color }}" target="_blank">[package]</a>
 		  {% endif %}
 		{% endif %}
 	
@@ -76,6 +76,10 @@
 	
     {% if post.notes %}
     <p>{{ post.notes |  markdownify }}</p>
+    {% endif %}
+	
+    {% if post.distinction %}
+    <p style="color:#c00000;font-weight:bold;">{{ post.distinction }}</p>
     {% endif %}
 	
     

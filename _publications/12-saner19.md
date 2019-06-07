@@ -6,12 +6,12 @@ title: "Reformulating Queries for Duplicate Bug Report Detection"
 authors: "**Oscar Chaparro**, Juan Manuel Florez, Unnati Singh, and Andrian Marcus"
 venue: "Proceedings of the 26th IEEE International Conference on Software Analysis, Evolution, and Reengineering"
 venue_acronym: "SANER'19"
-track: "To appear"
-pages: 
+track: 
+pages: "218-229"
 date: 2019-01-01
 
 paperurl: /files/12-saner19.pdf
-package: 
+package: https://seers.utdallas.edu/projects/ob-query-reformulation-duplicates/
 notes: 
 ---
 
