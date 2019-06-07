@@ -62,12 +62,15 @@ layout: default
 		<p>{{ page.notes |  markdownify }}</p>
 		{% endif %}
 	
+		{% if page.distinction %}
+		<p style="color:#c00000;font-weight:bold;">{{ page.distinction }}</p>
+		{% endif %}
 		
 		  <p>
 			 {% if page.paperurl %}
-			  <a href="{{ page.paperurl }}" target="_blank">[PDF]</a>
+			  <a href="{{ page.paperurl }}" target="_blank">[pdf]</a>
 			  {% if page.package %}
-			   <a href="{{ page.package }}" target="_blank">[Replication package]</a>
+			   <a href="{{ page.package }}" target="_blank">[package]</a>
 			  {% endif %}
 			{% endif %}
 		  </p>
