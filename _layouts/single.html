@@ -67,11 +67,12 @@ layout: default
 		{% endif %}
 		
 		  <p>
-			 {% if page.paperurl %}
-			  <a href="{{ page.paperurl }}" target="_blank">[pdf]</a>
+			 {% if page.paperurl %}[
+			  <a href="{{ page.paperurl }}" target="_blank">pdf</a>
 			  {% if page.package %}
-			   <a href="{{ page.package }}" target="_blank">[package]</a>
+			  / <a href="{{ page.package }}" target="_blank">package</a>
 			  {% endif %}
+			  ]
 			{% endif %}
 		  </p>
 				

@@ -64,11 +64,12 @@
 		<b>{{ post.date | default: "1900-01-01" | date: "%Y" }}</b>
 	    {% endif %}
 	  
-		 {% if post.paperurl %} - 
-		  <a href="{{ post.paperurl }}" style="color:{{ $link-color }}"  target="_blank">[pdf]</a>
+		 {% if post.paperurl %}  [ 
+		  <a href="{{ post.paperurl }}" style="color:{{ $link-color }}"  target="_blank">pdf</a>
 		  {% if post.package %}
-		   <a href="{{ post.package }}" style="color:{{ $link-color }}" target="_blank">[package]</a>
+		   / <a href="{{ post.package }}" style="color:{{ $link-color }}" target="_blank">package</a>
 		  {% endif %}
+		  ]
 		{% endif %}
 	
 	</p>
