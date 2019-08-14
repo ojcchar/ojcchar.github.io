@@ -1,6 +1,6 @@
 ---
 collection: publications
-permalink: /publication/1-book-chapter-re
+permalink: /publications/1-book-chapter-re
 
 title: "Reverse Engineering in Procedural Software Evolution"
 authors: "**Oscar Chaparro**, Fernando Cortés, and Jairo Aponte"

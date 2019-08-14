@@ -10,12 +10,12 @@ locale                   : "en-US"
 title                    : "Oscar Chaparro"
 title_separator          : "-"
 name                     : &name "Oscar Chaparro"
-description              : &description "Ph.D. Candidate at The University of Texas at Dallas"
+description              : &description "Assistant Professor at the College of William and Mary"
 url                      : https://ojcchar.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ojcchar/ojcchar.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
-breadcrumbs              : false # true, false (default)
+breadcrumbs              : true # true, false (default)
 words_per_minute         : 160
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
@@ -79,12 +79,12 @@ analytics:
 author:
   name             : "Oscar Chaparro"
   avatar           : "profile.jpg"
-  bio              : "Ph.D. Candidate at The University of Texas at Dallas"
+  bio              : "Assistant Professor at the College of William and Mary"
   location         : 
   employer         : 
   googlescholar    : "https://scholar.google.com/citations?user=B90VFVYAAAAJ&hl=en"
   dblp             : "http://dblp.uni-trier.de/pers/hd/c/Chaparro:Oscar"
-  email            : "ojchaparroa [at] utdallas [dot] edu"
+  email            : "oscarch [at] wm [dot] edu"
   uri              : 
   bitbucket        :
   codepen          :

@@ -1,6 +1,6 @@
 ---
 collection: publications
-permalink: /publication/10-icsme17
+permalink: /publications/10-icsme17
 
 title: "On-Demand Developer Documentation"
 authors: "Martin P. Robillard, Andrian Marcus, Christoph Treude, Gabriele Bavota, **Oscar Chaparro**, Neil Ernst, Marco Aurélio Gerosa, Michael Godfrey, Michele Lanza, Mario Linares-Vásquez, Gail Murphy, Laura Moreno, David Shepherd, and Edmund Wong"

@@ -5,8 +5,9 @@ author_profile: true
 ---
 
 Oscar Chaparro  
-ojchaparroa [at] utdallas [dot] edu  
+oscarch [at] wm [dot] edu  
 Department of Computer Science  
-University of Texas at Dallas  
-800 Campbell Rd, ECSS 4.620  
-Richardson, TX 75080, USA  
+College of William and Mary  
+McGlothlin-Street Hall 126  
+251 Jamestown Rd.  
+Williamsburg, VA 23185, USA  

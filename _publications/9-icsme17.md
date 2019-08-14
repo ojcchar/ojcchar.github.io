@@ -1,6 +1,6 @@
 ---
 collection: publications
-permalink: /publication/9-icsme17
+permalink: /publications/9-icsme17
 
 title: "Using Observed Behavior to Reformulate Queries during Text Retrieval-based Bug Localization"
 authors: "**Oscar Chaparro**, Juan Manuel Florez, and Andrian Marcus"

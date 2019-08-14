@@ -1,6 +1,6 @@
 ---
 collection: publications
-permalink: /publication/12-saner19
+permalink: /publications/12-saner19
 
 title: "Reformulating Queries for Duplicate Bug Report Detection"
 authors: "**Oscar Chaparro**, Juan Manuel Florez, Unnati Singh, and Andrian Marcus"

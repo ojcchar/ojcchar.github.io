@@ -1,6 +1,6 @@
 ---
 collection: publications
-permalink: /publication/5-icse16
+permalink: /publications/5-icse16
 
 title: "On the Reduction of Verbose Queries in Text Retrieval Based Software Maintenance"
 authors: "**Oscar Chaparro** and Andrian Marcus"

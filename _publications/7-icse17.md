@@ -1,6 +1,6 @@
 ---
 collection: publications
-permalink: /publication/7-icse17
+permalink: /publications/7-icse17
 
 title: "Improving Bug Reporting, Duplicate Detection, and Localization"
 authors: "**Oscar Chaparro**"

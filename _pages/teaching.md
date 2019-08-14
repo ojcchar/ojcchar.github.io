@@ -7,8 +7,17 @@ author_profile: true
 
 {% include base_path %}
 
-I have been Teaching Assistant for the following courses at The University of Texas at Dallas (UTD):
+**Courses at the College of William and Mary (as instructor)**
 
-{% for post in site.teaching reversed %}
-  {% include teaching-single.html %}
-{% endfor %}
+* [CSCI 680 - Software Maintenance and Evolution - Fall 2019](csci680-f19){:style="color: #52adc8;"}
+
+**Courses at The Univesity of Texas at Dallas (as TA)**
+
+* CS/SE 6356 - Software Maintenance, Evolution, and Re-Engineering (Graduate course) - Fall 2018
+* CS/SE 3354 - Software Engineering (Undergraduate course) - Fall 2018
+* CS/SE 6356 - Software Maintenance, Evolution, and Re-Engineering (Graduate course) - Fall 2017
+* CS/SE 3345 - Data Structures and Introduction to Algorithmic Analysis (Undergraduate course) - Fall 2017
+* CS/SE 6356 - Software Maintenance, Evolution, and Re-Engineering (Graduate course) - Fall 2016
+* CS/SE 3354 - Software Engineering (Undergraduate course) - Fall 2016
+* CS/SE 6301 - Software Analysis and Comprehension (Graduate course) - Spring 2016
+* CS/SE 3354 - Software Engineering (Undergraduate course) - Spring 2016

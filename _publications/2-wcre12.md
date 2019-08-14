@@ -1,6 +1,6 @@
 ---
 collection: publications
-permalink: /publication/2-wcre12
+permalink: /publications/2-wcre12
 
 title: "Towards the Automatic Extraction of Structural Business Rules from Legacy Databases"
 authors: "**Oscar Chaparro**, Jairo Aponte, Fernando Ortega, and Andrian Marcus"

@@ -1,6 +1,6 @@
 ---
 collection: publications
-permalink: /publication/6-icsme16
+permalink: /publications/6-icsme16
 
 title: "On the Vocabulary Agreement in Software Issue Descriptions"
 authors: "**Oscar Chaparro**, Juan Manuel Florez, and Andrian Marcus"

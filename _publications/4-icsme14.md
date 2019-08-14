@@ -1,6 +1,6 @@
 ---
 collection: publications
-permalink: /publication/4-icsme14
+permalink: /publications/4-icsme14
 
 title: "On the Impact of Refactoring Operations on Code Quality Metrics"
 authors: "**Oscar Chaparro**, Gabriele Bavota, Andrian Marcus, and Massimiliano Di Penta"

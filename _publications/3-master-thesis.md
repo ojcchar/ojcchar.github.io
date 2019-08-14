@@ -1,6 +1,6 @@
 ---
 collection: theses
-permalink: /publication/3-master-thesis
+permalink: /publications/3-master-thesis
 
 title: "Semiautomatic Reverse Engineering Tool on Oracle Forms Information Systems"
 authors: "**Oscar Chaparro**"
