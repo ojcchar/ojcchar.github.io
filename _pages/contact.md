@@ -1,10 +1,10 @@
 ---
 permalink: /contact/
-title: "Contact Information"
+title: "Contact"
 author_profile: true
 ---
 
-Oscar Chaparro  
+**Oscar Chaparro**  
 oscarch [at] wm [dot] edu  
 Department of Computer Science  
 College of William and Mary  
