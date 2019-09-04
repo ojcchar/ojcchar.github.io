@@ -8,6 +8,6 @@ author_profile: true
 oscarch [at] wm [dot] edu  
 Department of Computer Science  
 College of William and Mary  
-McGlothlin-Street Hall 126  
+McGlothlin-Street Hall 311  
 251 Jamestown Rd.  
 Williamsburg, VA 23185, USA  
