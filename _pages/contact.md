@@ -6,7 +6,8 @@ author_profile: true
 
 **Oscar Chaparro**  
 Email: oscarch [at] wm [dot] edu  
-Phone: (757)-221-2144
+Phone: (757)-221-2144  
+Address:  
 Department of Computer Science  
 College of William and Mary  
 McGlothlin-Street Hall 311  
