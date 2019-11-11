@@ -4,11 +4,11 @@ permalink: /publications/6-icsme16
 
 title: "On the Vocabulary Agreement in Software Issue Descriptions"
 authors: "**Oscar Chaparro**, Juan Manuel Florez, and Andrian Marcus"
-venue: "Proceedings of the 32nd IEEE International Conference on Software Maintenance and Evolution"
-venue_acronym: "ICSME'16"
+venue_key: icsme16
 track: "ERA track"
 pages: "448–452"
 date: 2016-01-01
+doiurl: https://doi.org/10.1109/ICSME.2016.44
 
 paperurl: /files/6-icsme16.pdf
 package: https://seers.utdallas.edu/projects/duplicates-vocabulary-agreement/

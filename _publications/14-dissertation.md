@@ -4,7 +4,7 @@ permalink: /publications/14-dissertation
 
 title: "Automated Analysis of Bug Descriptions to Support Bug Reporting and Resolution"
 authors: "**Oscar Chaparro**"
-venue: "The University of Texas at Dallas"
+venue_key: utd
 
 track: "Dissertation"
 pages: 

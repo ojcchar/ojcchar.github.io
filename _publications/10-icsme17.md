@@ -4,11 +4,11 @@ permalink: /publications/10-icsme17
 
 title: "On-Demand Developer Documentation"
 authors: "Martin P. Robillard, Andrian Marcus, Christoph Treude, Gabriele Bavota, **Oscar Chaparro**, Neil Ernst, Marco Aurélio Gerosa, Michael Godfrey, Michele Lanza, Mario Linares-Vásquez, Gail Murphy, Laura Moreno, David Shepherd, and Edmund Wong"
-venue: "Proceedings of the 33rd IEEE International Conference on Software Maintenance and Evolution"
-venue_acronym: "ICSME'17"
+venue_key: "icsme17"
 track: "NIER track"
 pages: "479–483"
 date: 2017-01-01
+doiurl: https://doi.org/10.1109/ICSME.2017.17
 
 paperurl: /files/10-icsme17.pdf
 notes:

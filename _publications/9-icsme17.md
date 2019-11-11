@@ -4,11 +4,11 @@ permalink: /publications/9-icsme17
 
 title: "Using Observed Behavior to Reformulate Queries during Text Retrieval-based Bug Localization"
 authors: "**Oscar Chaparro**, Juan Manuel Florez, and Andrian Marcus"
-venue: "Proceedings of the 33rd IEEE International Conference on Software Maintenance and Evolution"
-venue_acronym: "ICSME'17"
+venue_key: "icsme17"
 track: 
 pages: "376–387"
 date: 2017-04-01
+doiurl: https://doi.org/10.1109/ICSME.2017.100
 
 paperurl: /files/9-icsme17.pdf
 package: https://seers.utdallas.edu/projects/ob-query-reformulation/

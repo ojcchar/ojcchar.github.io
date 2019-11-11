@@ -4,11 +4,11 @@ permalink: /publications/2-wcre12
 
 title: "Towards the Automatic Extraction of Structural Business Rules from Legacy Databases"
 authors: "**Oscar Chaparro**, Jairo Aponte, Fernando Ortega, and Andrian Marcus"
-venue: "Proceedings of the 19th IEEE Working Conference on Reverse Engineering"
-venue_acronym: "WCRE'12"
+venue_key: wcre12
 track: 
 pages: "479–488"
 date: 2012-12-01
+doiurl: https://doi.org/10.1109/WCRE.2012.57
 
 paperurl: /files/2-wcre12.pdf
 notes:

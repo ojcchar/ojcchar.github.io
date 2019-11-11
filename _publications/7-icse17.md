@@ -4,11 +4,11 @@ permalink: /publications/7-icse17
 
 title: "Improving Bug Reporting, Duplicate Detection, and Localization"
 authors: "**Oscar Chaparro**"
-venue: "Proceedings of the 39th IEEE/ACM International Conference on Software Engineering"
-venue_acronym: "ICSE'17"
+venue_key: icse17
 track: "Doctoral symposium"
 pages: "421–424"
 date: 2017-02-01
+doiurl: https://doi.org/10.1109/ICSE-C.2017.27
 
 paperurl: /files/7-icse17.pdf
 package: 

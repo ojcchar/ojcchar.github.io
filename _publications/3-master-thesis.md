@@ -4,11 +4,12 @@ permalink: /publications/3-master-thesis
 
 title: "Semiautomatic Reverse Engineering Tool on Oracle Forms Information Systems"
 authors: "**Oscar Chaparro**"
-venue: 'Universidad Nacional de Colombia'
+venue_key: unal
 
 track: 'Master thesis'
 pages:
 date: 2012-11-01
+doiurl:  http://bdigital.unal.edu.co/11939/
 
 paperurl: /files/3-master-thesis.pdf
 notes:

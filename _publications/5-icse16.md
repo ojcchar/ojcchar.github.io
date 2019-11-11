@@ -4,11 +4,11 @@ permalink: /publications/5-icse16
 
 title: "On the Reduction of Verbose Queries in Text Retrieval Based Software Maintenance"
 authors: "**Oscar Chaparro** and Andrian Marcus"
-venue: "Proceedings of the 38th IEEE/ACM International Conference on Software Engineering"
-venue_acronym: "ICSE'16"
+venue_key: icse16
 track: "NIER track"
 pages: "716–718"
 date: 2016-02-01
+doiurl: https://doi.org/10.1145/2889160.2892647
 
 paperurl: /files/5-icse16.pdf
 package: https://seers.utdallas.edu/projects/query-reduction-poster/

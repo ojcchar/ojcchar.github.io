@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my publications on <u><a href="{{site.author.googlescholar}}">Google Scholar</a></u> and <u><a href="{{site.author.dblp}}">DBLP</a></u>.
+You can also find my publications on <u><a target="_blank" href="{{site.author.googlescholar}}">Google Scholar</a></u> and <u><a target="_blank" href="{{site.author.dblp}}">DBLP</a></u>.
 
 
 {% include base_path %}

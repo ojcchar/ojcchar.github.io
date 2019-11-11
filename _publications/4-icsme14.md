@@ -4,11 +4,11 @@ permalink: /publications/4-icsme14
 
 title: "On the Impact of Refactoring Operations on Code Quality Metrics"
 authors: "**Oscar Chaparro**, Gabriele Bavota, Andrian Marcus, and Massimiliano Di Penta"
-venue: "Proceedings of the 30th IEEE International Conference on Software Maintenance and Evolution"
-venue_acronym: "ICSME'14"
+venue_key: icsme14
 track: "ERA track"
 pages: "456–460"
 date: 2014-10-01
+doiurl: https://doi.org/10.1109/ICSME.2014.73
 
 paperurl: /files/4-icsme14.pdf
 package: https://seers.utdallas.edu/projects/ripe/

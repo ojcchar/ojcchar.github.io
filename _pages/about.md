@@ -11,8 +11,6 @@ redirect_from:
 
 **I am looking for motivated and skilled students interested in conducting research in software engineering! Please contact me with your CV if you are interested!**
 
-**I will teach the course [CSCI 680 - Software Maintenance and Evolution](/teaching/csci680-f19) in fall 2019!**
-
 Hi there! I am an Assistant Professor in the [Computer Science Department](https://www.wm.edu/as/computerscience/?svr=web){:target="_blank"} at the [College of William and Mary](https://www.wm.edu/){:target="_blank"}. My research interests are in software maintenance and evolution, program comprehension, code refactoring, code quality, developer's productivity, and text analysis applied to software engineering.
 
 I obtained my Ph.D. in Software Engineering from [The University of Texas at Dallas](http://www.utdallas.edu/){:target="_blank"} in 2019, under the advice of Dr. [Andrian Marcus](http://www.utdallas.edu/~amarcus/){:target="_blank"}. I obtained my B.Eng. and M.Eng. in Systems Engineering and Computing from [Universidad Nacional de Colombia](https://bogota.unal.edu.co/){:target="_blank"} in Bogot&aacute;, Colombia.
