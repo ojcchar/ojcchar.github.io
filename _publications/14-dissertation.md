@@ -9,6 +9,7 @@ venue_key: utd
 track: "Dissertation"
 pages: 
 date: 2019-09-01
+doiurl: https://utd-ir.tdl.org/handle/10735.1/7148?show=full
 
 paperurl: /files/14-dissertation.pdf
 notes: 
