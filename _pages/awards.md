@@ -4,6 +4,8 @@ title: "Honors and Awards"
 author_profile: true
 ---
 
+* ACM SIGSOFT Distinguished Paper Award, at the 42nd IEEE/ACM International Conference on Software Engineering (ICSE'20), 2020
+* David Daniel Thesis Award, The University of Texas at Dallas, 2020
 * ACM SIGSOFT Distinguished Paper Award, at the 27th ACM Joint Meeting on the Foundations of Software Engineering (ESEC/FSE'19), 2019
 * Dissertation Research Award ($5,000), The University of Texas at Dallas, 2018
 * IEEE TCSE Distinguished Paper Award, at the 33rd IEEE International Conference on Software Maintenance and Evolution (ICSME'17), 2017

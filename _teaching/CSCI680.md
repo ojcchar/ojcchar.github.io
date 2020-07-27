@@ -1,6 +1,6 @@
 ---
-title: "CSCI 680 - Software Maintenance and Evolution - Fall 2019"
-permalink: /teaching/csci680-f19
+title: "CSCI 680 - Software Maintenance and Evolution"
+permalink: /teaching/csci680
 collection: teaching
 venue: ""
 
@@ -8,7 +8,8 @@ venue: ""
 
 **Hours and Location**
 
-Tuesdays/Thursdays: 3:30pm-4:50pm at Tyler Hall 132
+* **Fall 2020: (To be updated) Monday/Wednesdays, 2:00pm - 3:25pm via Zoom**
+* Fall 2019: Tuesdays/Thursdays, 3:30pm - 4:50pm at Tyler Hall 132
 
 **Description**
 
