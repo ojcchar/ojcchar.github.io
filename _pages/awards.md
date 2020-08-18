@@ -1,8 +1,21 @@
 ---
 permalink: /awards/
-title: "Honors and Awards"
+title: "Grants and Awards"
 author_profile: true
 ---
+
+## Research grants
+
+* **Collaborative Research: SHF: Medium: Bug Report Management 2.0** ([CCF-1955853](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1955853&HistoricalAwards=false){:target="_blank"})
+	
+	 **Agency**: National Science Foundation (NSF), CCF-Software and Hardware Foundations
+	 
+	 **PIs**: Denys Poshyvanyk (PI), Andrian Marcus (PI), **Oscar Chaparro** (co-PI), Kevin Moran (co-PI)
+	 
+	 **Dates**: Oct 1, 2020 - Sept 30, 2024
+
+
+## Honors and Awards
 
 * ACM SIGSOFT Distinguished Paper Award, at the 42nd IEEE/ACM International Conference on Software Engineering (ICSE'20), 2020
 * David Daniel Thesis Award, The University of Texas at Dallas, 2020
