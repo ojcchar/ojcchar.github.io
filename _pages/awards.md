@@ -10,7 +10,7 @@ author_profile: true
 	
 	 **Agency**: National Science Foundation (NSF), CCF-Software and Hardware Foundations
 	 
-	 **PIs**: Denys Poshyvanyk (PI), Andrian Marcus (PI), **Oscar Chaparro** (co-PI), Kevin Moran (co-PI)
+	 **PIs**: Denys Poshyvanyk, Andrian Marcus (PIs), **Oscar Chaparro**, Kevin Moran (co-PIs)
 	 
 	 **Dates**: Oct 1, 2020 - Sept 30, 2024
 
