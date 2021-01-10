@@ -1,12 +1,12 @@
 ---
 collection: publications
-permalink: /publications/15-icse20
+permalink: /publications/16-fse20-bee
 
 title: "BEE: A Tool for Structuring and Analyzing Bug Reports"
 authors: "Yang Song*, **Oscar Chaparro**"
 venue_key: "fse20"
 track: Tool demo track
-pages: "(to appear)"
+pages: "1551-1555"
 date: 2020-11-01
 doiurl: https://doi.org/10.1145/3368089.3417928
 
