@@ -2,7 +2,7 @@
 collection: publications
 permalink: /publications/18-icse21-tango
 
-title: "It Takes Two to Tango: Combining Visual andTextual Information for Detecting DuplicateVideo-Based Bug Reports"
+title: "It Takes Two to Tango: Combining Visual and Textual Information for Detecting Duplicate Video-Based Bug Reports"
 authors: " Nathan Cooper, Carlos Bernal-Cárdenas, **Oscar Chaparro**, Kevin Moran, Denys Poshyvanyk"
 venue_key: "icse21"
 track: 
