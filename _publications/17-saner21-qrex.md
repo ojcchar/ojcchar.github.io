@@ -11,7 +11,7 @@ date: 2021-03-01
 doiurl: 
 
 paperurl: /files/17-saner21-qrex.pdf
-package: 
+package: https://doi.org/10.5281/zenodo.4431018
 notes: 
 distinction: 
 ---

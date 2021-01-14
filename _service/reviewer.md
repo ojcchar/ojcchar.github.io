@@ -8,7 +8,7 @@ date: 2016-02-19
 * National Science Foundation (NSF), SHF program: 2020
 * IEEE Transactions on Software Engineering (TSE), IEEE CS : 2019, 2020
 * Empirical Software Engineering (EMSE), Springer: 2019, 2020
-* Journal of Systems and Software (JSS), Elsevier: 2019, 2020
+* Journal of Systems and Software (JSS), Elsevier: 2019, 2020, 2021
 * Software Quality Journal (SQJ), Springer: 2019
 * ACM/IEEE Intl. Conf. on Software Engineering (ICSE): 2015, 2017
 * IEEE Intl. Conf. on Software Maintenance and Evolution (ICSME): 2015, 2016, 2019
