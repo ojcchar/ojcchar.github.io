@@ -6,9 +6,9 @@ title: "Combining Query Reduction and Expansion for Text-Retrieval-Based Bug Loc
 authors: "Juan Manuel Florez, **Oscar Chaparro**, Christoph Treude, and Andrian Marcus"
 venue_key: "saner21"
 track: 
-pages: "(to appear)"
+pages: "166-176"
 date: 2021-03-01
-doiurl: 
+doiurl: https://doi.org/10.1109/SANER50967.2021.00024
 
 paperurl: /files/17-saner21-qrex.pdf
 package: https://doi.org/10.5281/zenodo.4431018

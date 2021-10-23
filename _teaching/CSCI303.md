@@ -1,5 +1,5 @@
 ---
-title: "CSCI 303 - Algorithms - Spring 2020"
+title: "CSCI 303 - Algorithms"
 permalink: /teaching/CSCI303
 collection: teaching
 venue: ""
@@ -8,7 +8,8 @@ venue: ""
 
 **Hours and Location**
 
-* **Spring 2021: Tuesdays/Thursdays, 9:30 am - 10:50 am via Zoom** [\[Piazza course page\]](https://piazza.com/wm/spring2021/csci303)
+* **Spring 2022: Tuesdays/Thursdays, 12:30 pm - 13:50 pm at  Blow Memorial Hall 332**
+* Spring 2021: Tuesdays/Thursdays, 9:30 am - 10:50 am via Zoom [\[Piazza course page\]](https://piazza.com/wm/spring2021/csci303)
 * Spring 2020: Tuesdays/Thursdays, 3:30 pm - 4:50 pm, at ISC 2280 [\[Piazza course page\]](https://piazza.com/wm/spring2020/csci303/home)
 
 **Description**

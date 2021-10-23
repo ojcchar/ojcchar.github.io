@@ -6,9 +6,9 @@ title: "It Takes Two to Tango: Combining Visual and Textual Information for Dete
 authors: "Nathan Cooper, Carlos Bernal-Cárdenas, **Oscar Chaparro**, Kevin Moran, Denys Poshyvanyk"
 venue_key: "icse21"
 track: 
-pages: "(to appear)"
+pages: "957–969"
 date: 2021-05-01
-doiurl: 
+doiurl: https://doi.org/10.1109/ICSE43902.2021.00091
 
 paperurl: /files/18-icse21-tango.pdf
 package: https://github.com/ncoop57/tango

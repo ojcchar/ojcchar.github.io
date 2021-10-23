@@ -8,8 +8,9 @@ venue: ""
 
 **Hours and Location**
 
-* **Fall 2020: Tuesdays/Thursdays, 9:30am - 10:50am via Zoom**
-* Fall 2019: Tuesdays/Thursdays, 3:30pm - 4:50pm at Tyler Hall 132
+* **Fall 2021: Tuesdays/Thursdays, 9:30 am - 10:50 am at Chancellors Hall 113**
+* Fall 2020: Tuesdays/Thursdays, 9:30 am - 10:50 am via Zoom
+* Fall 2019: Tuesdays/Thursdays, 3:30 pm - 4:50 pm at Tyler Hall 132
 
 **Description**
 

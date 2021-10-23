@@ -5,6 +5,11 @@ venue: ""
 date: 2016-01-18
 ---
 
+* 44th ACM/IEEE International Conference on Software Engineering (ICSE’22): Poster Track
+* 19th IEEE Working Conference on Mining Software Repositories (MSR’22): Data/Tool Showcase Track
+* 30th IEEE/ACM International Conference on Program Comprehension (ICPC’22): Research Track
+* 5th IEEE/ACM International Workshop on Refactoring (IWOR’21): Research Track
+* 37th IEEE International Conference on Software Maintenance and Evolution (ICSME’21): Research Track and New Ideas and Emerging Results Track
 * 36th IEEE/ACM Intl. Conference on Automated Software Engineering (ASE'21): Research track
 * 27th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE'20): Student Research Competition
 * 36th IEEE Intl. Conf. on Software Maintenance and Evolution (ICSME'20): Tool Demo and Doctoral Symposium Tracks
