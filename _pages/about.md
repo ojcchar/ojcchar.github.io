@@ -16,7 +16,7 @@ My broad **research interests** are in software maintenance and evolution, progr
 
 While my research spans multiple SE topics, my **current research focus** is on:
 1. automating bug reporting, triage, and resolution (*aka* automate bug report management)
-2. recovering and managing the knowledge produced by stakeholders in multiple softwera artifacts to improve software quality and code change tasks (e.g., code refactoring).
+2. recovering and managing the knowledge produced by stakeholders in multiple software artifacts to improve software quality and code change tasks (e.g., code refactoring).
 
 My research often utilizes **empirical methods**, analyzes/leverages **content from different software artifacts** (software bug reports, source code, online discussions, etc.), and builds on **creating, adapting, and integrating techniques** based on program analysis, software repository mining (MSR), information retrieval (IR), natural language processing (NLP), computer vision (CV), and machine learning (ML).
 
