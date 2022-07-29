@@ -5,10 +5,10 @@ venue: ""
 date: 2016-02-19
 ---
 
-* National Science Foundation (NSF), SHF program: 2020
-* IEEE Transactions on Software Engineering (TSE), IEEE CS : 2019-2021
-* Empirical Software Engineering (EMSE), Springer: 2019-2021
-* Journal of Systems and Software (JSS), Elsevier: 2019-2021
+* National Science Foundation (NSF), SHF program: 2020, 2022
+* IEEE Transactions on Software Engineering (TSE), IEEE CS : 2019-2022
+* Empirical Software Engineering (EMSE), Springer: 2019-2022
+* Journal of Systems and Software (JSS), Elsevier: 2019-2022
 * Automated Software Engineering (AUSE), Springer – 2021
 * Software Quality Journal (SQJ), Springer: 2019
 * ACM/IEEE Intl. Conf. on Software Engineering (ICSE): 2015, 2017

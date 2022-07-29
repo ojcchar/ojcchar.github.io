@@ -6,6 +6,14 @@ author_profile: true
 
 ## Research grants
 
+* **DASS: Enabling Comprehensive and Interactive Open Source Software License Compliance** ([CCF-2217733](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2217733){:target="_blank"})
+	
+	 **Agency**: National Science Foundation (NSF), CCF-Designing Accountable Software Systems (DASS)
+	 
+	 **PIs**: Denys Poshyvanyk, **Oscar Chaparro**, Laura Heymann 
+	 
+	 **Dates**: Oct 1, 2022 - Sept 30, 2025
+
 * **Collaborative Research: SHF: Medium: Bug Report Management 2.0** ([CCF-1955853](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1955853&HistoricalAwards=false){:target="_blank"})
 	
 	 **Agency**: National Science Foundation (NSF), CCF-Software and Hardware Foundations
@@ -17,7 +25,8 @@ author_profile: true
 
 ## Honors and Awards
 
-* Distinguished Reviewer Award, at the 37th IEEE International Conference on Software Maintenance and Evolution (ICSME’21), 2021
+* Distinguished Reviewer Award, at the 30th IEEE/ACM International Conference on Program Comprehension (ICPC’22), 2022
+* Distinguished Reviewer Award, at the 37th IEEE International Conference on Software Maintenance and Evolution (ICSME’21), 2021	
 * ACM SIGSOFT Distinguished Paper Award, at the 42nd IEEE/ACM International Conference on Software Engineering (ICSE'20), 2020
 * David Daniel Thesis Award, The University of Texas at Dallas, 2020
 * ACM SIGSOFT Distinguished Paper Award, at the 27th ACM Joint Meeting on the Foundations of Software Engineering (ESEC/FSE'19), 2019
