@@ -6,7 +6,7 @@ title: "Toward Interactive Bug Reporting for (Android App) End-Users"
 authors: "Yang Song*, Junayed Mahmud, Ying Zhou, **Oscar Chaparro**, Kevin Moran, Andrian Marcus,  and Denys Poshyvanyk"
 venue_key: fse22
 track:
-pages: "(to appear)"
+pages: "344–356"
 date: 2022-11-01
 doiurl: https://doi.org/10.1145/3540250.3549131
 
