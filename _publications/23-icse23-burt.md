@@ -3,7 +3,7 @@ collection: publications
 permalink: /publications/23-icse23-burt
 
 title: "BURT: A Chatbot for Interactive Bug Reporting"
-authors: "Yang Song***, Junayed Mahmud, Nadeeshan De Silva***, Ying Zhou, **Oscar Chaparro**, Kevin Moran, Andrian Marcus, and Denys Poshyvanyk"
+authors: "Yang Song*****, Junayed Mahmud, Nadeeshan De Silva*****, Ying Zhou, **Oscar Chaparro**, Kevin Moran, Andrian Marcus, and Denys Poshyvanyk"
 venue_key: "icse23"
 track: Tool demo track
 pages: "(to appear)"
