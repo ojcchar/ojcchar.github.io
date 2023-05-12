@@ -6,27 +6,21 @@ author_profile: true
 
 ## Research grants
 
-* **CAREER: Informed Decision Making for Software Change** ([CCF-2239107](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2239107){:target="_blank"})
-	
-	 **Agency**: National Science Foundation (NSF), CCF-Faculty Early Career Development (CAREER) 
+* **NSF.CAREER: Informed Decision Making for Software Change** ([CCF-2239107](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2239107){:target="_blank"})
 	 
 	 **PIs**: **Oscar Chaparro**
 	 
 	 **Dates**: June 1, 2023 - May 30, 2028
 
-* **DASS: Enabling Comprehensive and Interactive Open Source Software License Compliance** ([CCF-2217733](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2217733){:target="_blank"})
-	
-	 **Agency**: National Science Foundation (NSF), CCF-Designing Accountable Software Systems (DASS)
+* **NSF.DASS: Enabling Comprehensive and Interactive Open Source Software License Compliance** ([CCF-2217733](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2217733){:target="_blank"})
 	 
 	 **PIs**: Denys Poshyvanyk, **Oscar Chaparro**, Laura Heymann 
 	 
 	 **Dates**: Oct 1, 2022 - Sept 30, 2025
 
-* **Collaborative Research: SHF: Medium: Bug Report Management 2.0** ([CCF-1955853](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1955853&HistoricalAwards=false){:target="_blank"})
-	
-	 **Agency**: National Science Foundation (NSF), CCF-Software and Hardware Foundations
+* **NSF. Collaborative Research: SHF: Medium: Bug Report Management 2.0** ([CCF-1955853](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1955853&HistoricalAwards=false){:target="_blank"})
 	 
-	 **PIs**: Denys Poshyvanyk, Andrian Marcus (PIs), **Oscar Chaparro**, Kevin Moran (co-PIs)
+	 **PIs**: Denys Poshyvanyk, Andrian Marcus, **Oscar Chaparro**, Kevin Moran
 	 
 	 **Dates**: Oct 1, 2020 - Sept 30, 2024
 
