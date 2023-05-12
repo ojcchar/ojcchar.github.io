@@ -6,6 +6,14 @@ author_profile: true
 
 ## Research grants
 
+* **CAREER: Informed Decision Making for Software Change** ([CCF-2239107](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2239107){:target="_blank"})
+	
+	 **Agency**: National Science Foundation (NSF), CCF-Faculty Early Career Development (CAREER) 
+	 
+	 **PIs**: **Oscar Chaparro**
+	 
+	 **Dates**: June 1, 2023 - May 30, 2028
+
 * **DASS: Enabling Comprehensive and Interactive Open Source Software License Compliance** ([CCF-2217733](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2217733){:target="_blank"})
 	
 	 **Agency**: National Science Foundation (NSF), CCF-Designing Accountable Software Systems (DASS)
