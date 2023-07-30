@@ -3,7 +3,7 @@ collection: publications
 permalink: /publications/25-fse23-verification
 
 title: "On the Relationship Between Code Verifiability and Understandability"
-authors: "<u>Kobi Feldman</u>**+**, Kobi Feldman, and **Oscar Chaparro**"
+authors: "<u>Kobi Feldman</u>, Martin Kellogg, and **Oscar Chaparro**"
 venue_key: fse23
 track:
 pages: "(to appear)"

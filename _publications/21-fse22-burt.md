@@ -3,7 +3,7 @@ collection: publications
 permalink: /publications/21-fse22-burt
 
 title: "Toward Interactive Bug Reporting for (Android App) End-Users"
-authors: "Yang Song**+**, Junayed Mahmud, Ying Zhou, **Oscar Chaparro**, Kevin Moran, Andrian Marcus,  and Denys Poshyvanyk"
+authors: "<u>Yang Song</u>, Junayed Mahmud, Ying Zhou, **Oscar Chaparro**, Kevin Moran, Andrian Marcus,  and Denys Poshyvanyk"
 venue_key: fse22
 track:
 pages: "344–356"

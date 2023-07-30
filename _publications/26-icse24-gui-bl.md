@@ -3,7 +3,7 @@ collection: publications
 permalink: /publications/26-icse24-gui-bl
 
 title: "On Using GUI Interaction Data to Improve Text Retrieval-based Bug Localization"
-authors: "Junayed Mahmud, Nadeeshan De Silva**+**, Safwat Ali Khan, Seyed Hooman Mostafavi, S M Hasan Mansur, **Oscar Chaparro**, Andrian Marcus, and Kevin Moran"
+authors: "Junayed Mahmud, <u>Nadeeshan De Silva</u>, Safwat Ali Khan, Seyed Hooman Mostafavi, S M Hasan Mansur, **Oscar Chaparro**, Andrian Marcus, and Kevin Moran"
 venue_key: "icse24"
 track: 
 pages: "(to appear)"

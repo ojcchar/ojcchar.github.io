@@ -3,7 +3,7 @@ collection: publications
 permalink: /publications/16-fse20-bee
 
 title: "BEE: A Tool for Structuring and Analyzing Bug Reports"
-authors: "Yang Song**+**, **Oscar Chaparro**"
+authors: "<u>Yang Song</u>, **Oscar Chaparro**"
 venue_key: "fse20"
 track: Tool demo track
 pages: "1551-1555"

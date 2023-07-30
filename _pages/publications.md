@@ -7,7 +7,7 @@ author_profile: true
 
 You can also find my publications on <u><a target="_blank" href="{{site.author.googlescholar}}">Google Scholar</a></u> and <u><a target="_blank" href="{{site.author.dblp}}">DBLP</a></u>.
 
-The authors marked with **+** are current or former students I mentored.
+The authors <u>underlined</u> are current or former students I have mentored.
 
 
 {% include base_path %}
