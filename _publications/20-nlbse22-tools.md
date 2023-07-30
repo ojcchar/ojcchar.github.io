@@ -4,7 +4,7 @@ permalink: /publications/20-nlbse22-tools
 
 title: "The NLBSE'22 Tool Competition"
 authors: "Rafael Kallis, **Oscar Chaparro**, Andrea Di Sorbo, and Sebastiano Panichella"
-venue_key: "nlbse21"
+venue_key: "nlbse22"
 track: Tool competition summary
 pages: "25-28"
 date: 2022-06-01
