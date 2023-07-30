@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! I am an Assistant Professor in the [Computer Science Department](https://www.wm.edu/as/computerscience/?svr=web){:target="_blank"} at the [College of William & Mary](https://www.wm.edu/){:target="_blank"}. 
+I am an Assistant Professor of [Computer Science](https://www.wm.edu/as/computerscience/?svr=web){:target="_blank"} at the [College of William & Mary](https://www.wm.edu/){:target="_blank"}. 
 
 I got my Ph.D. in Software Engineering (SE) from [The University of Texas at Dallas](http://www.utdallas.edu/){:target="_blank"} in 2019, under the advice of Dr. [Andrian Marcus](http://www.utdallas.edu/~amarcus/){:target="_blank"}, and my B.Eng. and M.Eng. degrees in Systems Engineering and Computing from [Universidad Nacional de Colombia](https://bogota.unal.edu.co/){:target="_blank"} in Bogot&aacute;, Colombia.
 
@@ -16,10 +16,10 @@ My broad **research interests** are in software maintenance and evolution, progr
 
 While my research spans multiple SE topics, my **current research focus** is on:
 1. automating bug reporting, triage, and resolution (*aka* automate bug report management)
-2. recovering and managing the knowledge produced by stakeholders in multiple software artifacts to improve software quality and code change tasks (e.g., code refactoring)
-3. software supply chain management and software licensing
+2. recovering and managing the knowledge produced by stakeholders in software artifacts to improve software quality and code change tasks (e.g., code refactoring)
+3. automating and managing the software supply chain (with emphasis on licensing and software evolution)
 
-My research often employs **empirical methods**, analyzes/leverages **content from different software artifacts** (software bug reports, source code, online discussions, etc.), and builds on **creating, adapting, and integrating techniques** based on program analysis, software repository mining (MSR), information retrieval (IR), natural language processing (NLP), computer vision (CV), and machine learning (ML).
+My research employs **empirical methods**, analyzes/leverages **content from different software artifacts** (software bug reports, source code, online discussions, etc.), and builds on **creating, adapting, and integrating techniques** based on program analysis, software repository mining (MSR), information retrieval (IR), natural language processing (NLP), computer vision (CV), and machine/deep learning (ML/DL).
 
 Take a look at my [publications](publications/) to know more about my research.
 
