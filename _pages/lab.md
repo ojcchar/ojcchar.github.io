@@ -19,7 +19,7 @@ author_profile: true
   </div>
 </div>
 
-# Ph.D. Students
+## Ph.D. Students
 
 <div class="row" >
   <div class="col-lg-2 col-md-3">
@@ -42,7 +42,7 @@ author_profile: true
   </div>
   <div class="col-lg-2 col-md-3">
   	<figure class="figure">
-		<a href="#" target="_blank">
+		<a href="https://www.twstalnaker.com/" target="_blank">
 		<img src="/images/lab/trevor.png" class="img-responsive img-fluid rounded" alt="Image"></a>
 		<figcaption class="caption text-center">
 			Trevor Stalnaker
@@ -69,6 +69,6 @@ author_profile: true
   </div>
 </div>
 
-# Undergraduate Students
+## Undergraduate Students
 
 - Kobi Feldman
