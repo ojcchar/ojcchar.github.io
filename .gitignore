@@ -2,4 +2,5 @@
 _site/
 .bundle
 .ruby-version
+vendor
 
