@@ -9,10 +9,7 @@ redirect_from:
 
 I am an Assistant Professor of [Computer Science](https://www.wm.edu/as/computerscience/?svr=web){:target="_blank"} at the [College of William & Mary](https://www.wm.edu/){:target="_blank"}. 
 
-I got my Ph.D. in Software Engineering (SE) from [The University of Texas at Dallas](http://www.utdallas.edu/){:target="_blank"} in 2019, under the advice of Dr. [Andrian Marcus](http://www.utdallas.edu/~amarcus/){:target="_blank"}, and my B.Eng. and M.Eng. degrees in Systems Engineering and Computing from [Universidad Nacional de Colombia](https://bogota.unal.edu.co/){:target="_blank"} in Bogot&aacute;, Colombia.
-
-
-**Research interests**: software maintenance and evolution, program comprehension, code refactoring, code quality, code documentation, developer's productivity, and text analysis applied to SE.
+I lead the [**S**oftware **E**volution and **A**nalysis (**SEA**)](lab/) Lab that conducts research in software maintenance and evolution, program comprehension, code refactoring, code quality, code documentation, developer's productivity, and text analysis applied to SE.
 
 While my research spans multiple SE topics, my **current research focus** is on:
 1. automating bug reporting, triage, and resolution (*aka* automate bug report management)
@@ -22,6 +19,8 @@ While my research spans multiple SE topics, my **current research focus** is on:
 My research employs **empirical methods**, analyzes/leverages **different software artifacts** (software bug reports, source code, online discussions, etc.), and builds on **creating, adapting, and integrating techniques** based on program analysis, software repository mining (MSR), information retrieval (IR), natural language processing (NLP), computer vision (CV), and machine/deep learning (ML/DL).
 
 Take a look at my [publications](publications/) to know more about my research.
+
+**Education**: I got my Ph.D. in Software Engineering (SE) from [The University of Texas at Dallas](http://www.utdallas.edu/){:target="_blank"} in 2019, under the advice of Dr. [Andrian Marcus](http://www.utdallas.edu/~amarcus/){:target="_blank"}, and my B.Eng. and M.Eng. degrees in Systems Engineering and Computing from [Universidad Nacional de Colombia](https://bogota.unal.edu.co/){:target="_blank"} in Bogot&aacute;, Colombia.
 
 ***RECENT NEWS*** 
 
