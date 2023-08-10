@@ -45,7 +45,7 @@ author_profile: true
 		<a href="https://www.twstalnaker.com/" target="_blank">
 		<img src="/images/lab/trevor.png" class="img-responsive img-fluid rounded" alt="Image"></a>
 		<figcaption class="caption text-center">
-			Trevor Stalnaker
+			Trevor Stalnaker (*)
 		</figcaption>
 	</figure>
   </div>
@@ -54,7 +54,7 @@ author_profile: true
 		<a href="https://www.linkedin.com/in/nathan-wintersgill/" target="_blank">
 		<img src="/images/lab/nathan.png" class="img-responsive img-fluid rounded" alt="Image"></a>
 		<figcaption class="caption text-center">
-			Nathan Wintersgill
+			Nathan Wintersgill (*)
 		</figcaption>
 	</figure>
   </div>
@@ -68,6 +68,8 @@ author_profile: true
 	</figure>
   </div>
 </div>
+
+<small>(*) Co-advised with Denys Poshyvanyk</small>
 
 ## Undergraduate Students
 

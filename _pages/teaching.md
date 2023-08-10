@@ -9,8 +9,8 @@ author_profile: true
 
 ## Courses at the College of William and Mary
 
-* [CSCI 645/680 - Software Maintenance and Evolution (Fall 2019-2023)](csci680){:style="color: #52adc8;"}
-* [CSCI 303 - Algorithms (Spring 2020-2022)](CSCI303){:style="color: #52adc8;"}
+* [CSCI 645/680 - Software Maintenance and Evolution (Taught in Fall)](csci680){:style="color: #52adc8;"}
+* [CSCI 303 - Algorithms (Taught in Spring)](CSCI303){:style="color: #52adc8;"}
 
 ## Courses at The University of Texas at Dallas (as TA)
 

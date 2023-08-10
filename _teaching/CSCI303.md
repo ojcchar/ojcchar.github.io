@@ -6,11 +6,13 @@ venue: ""
 
 ---
 
-**Hours and Location**
+<!-- **Hours and Location**
 
-* **Spring 2022: Tuesdays/Thursdays, 12:30 pm - 13:50 pm at  Blow Memorial Hall 332**
+* **Spring 2023: Mondays/Wednesdays, 2 pm - 3:20 pm**
+* Spring 2023: Mondays/Wednesdays, 2 pm - 3:20 pm at Blow Memorial Hall 332
+* Spring 2022: Tuesdays/Thursdays, 12:30 pm - 13:50 pm at  Blow Memorial Hall 332
 * Spring 2021: Tuesdays/Thursdays, 9:30 am - 10:50 am via Zoom [\[Piazza course page\]](https://piazza.com/wm/spring2021/csci303)
-* Spring 2020: Tuesdays/Thursdays, 3:30 pm - 4:50 pm, at ISC 2280 [\[Piazza course page\]](https://piazza.com/wm/spring2020/csci303/home)
+* Spring 2020: Tuesdays/Thursdays, 3:30 pm - 4:50 pm, at ISC 2280 [\[Piazza course page\]](https://piazza.com/wm/spring2020/csci303/home) -->
 
 **Description**
 
