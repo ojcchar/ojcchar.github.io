@@ -25,7 +25,7 @@ Take a look at my [publications](publications/) to know more about my research.
 ***RECENT NEWS*** 
 
 1. (August 2023) Paper on Software Bill of Materials accepted at [ICSE'24](publications/) 
-2. (July 2023) [Trevor Stalknaker](lab/) defended his MS thesis on Software Bill of Materials
+2. (July 2023) [Trevor Stalknaker](lab/) defended his [MS thesis](files/theses/2023-Trevor-MS-SBOMs.pdf){:target="_blank"} on Software Bill of Materials
 3. (July 2023) Paper on Code Verifiability and Understandability accepted at [ESEC/FSE'23](publications/)
 4. (June 2023) Paper on Bug Localization accepted at [ICSE'24](publications/)
 5. (March 2023) I got an [NSF CAREER award](awards/) on Informed Decision Making for Software Change ([W&M News article](https://www.wm.edu/as/computerscience/about-contactus/news/two-nsf-career-awards-in-2023-recognize-wm-leadership-in-computer-science.php){:target="_blank"})
