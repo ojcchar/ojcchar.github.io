@@ -33,7 +33,7 @@ author_profile: true
   </div>
   <div class="col-lg-2 col-md-3">
   	<figure class="figure">
-		<a href="#" target="_blank">
+		<a href="https://antu-saha.github.io/" target="_blank">
 		<img src="/images/lab/antu.png" class="img-responsive img-fluid rounded" alt="Image"></a>
 		<figcaption class="caption text-center">
 			Antu Saha
