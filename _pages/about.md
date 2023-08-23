@@ -9,7 +9,7 @@ redirect_from:
 
 I am an Assistant Professor of [Computer Science](https://www.wm.edu/as/computerscience/?svr=web){:target="_blank"} at the [College of William & Mary](https://www.wm.edu/){:target="_blank"}. 
 
-I lead the [**S**oftware **E**volution and **A**nalysis (**SEA**)](lab/) Lab, which conducts research in software maintenance and evolution, program comprehension, code refactoring, code quality, code documentation, developer's productivity, and text analysis applied to SE.
+I lead the [**S**oftware **E**volution and **A**nalysis (**SEA**)](lab/) Lab, which conducts research in software maintenance and evolution, program comprehension, code refactoring, code quality, code documentation, developer's productivity, and text analysis applied to software engineering (SE).
 
 While my research spans multiple SE topics, my **current research focus** is on:
 1. automating bug reporting, triage, and resolution (*aka* automate bug report management)
