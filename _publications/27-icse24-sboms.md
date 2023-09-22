@@ -8,10 +8,10 @@ venue_key: "icse24"
 track: 
 pages: "(to appear)"
 date: 2024-04-02
-doiurl: 
+doiurl: https://doi.org/10.1145/3597503.3623347
 
-paperurl: 
-package: 
+paperurl: /files/27-icse24-sboms.pdf
+package: https://github.com/TStalnaker44/boms_away_study
 notes: 
 distinction: 
 ---
