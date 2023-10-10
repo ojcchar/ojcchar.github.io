@@ -24,7 +24,7 @@ Take a look at my [publications](publications/) to know more about my research.
 
 ***RECENT NEWS*** 
 
-1. (October 2023) Paper on Video Bug Report Duplicate Detection accepted at [ICSE'24](publications/) 
+1. (October 2023) Paper on Duplicate Video Bug Report Detection accepted at [ICSE'24](publications/) 
 1. (August 2023) Paper on Software Bill of Materials accepted at [ICSE'24](publications/) 
 2. (July 2023) [Trevor Stalknaker](lab/) defended his [MS thesis](files/theses/2023-Trevor-MS-SBOMs.pdf){:target="_blank"} on Software Bill of Materials
 3. (July 2023) Paper on Code Verifiability and Understandability accepted at [ESEC/FSE'23](publications/)
