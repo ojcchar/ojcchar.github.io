@@ -8,9 +8,9 @@ venue_key: "icse24"
 track: 
 pages: "(to appear)"
 date: 2024-04-01
-doiurl: 
+doiurl: https://doi.org/10.1145/3597503.3608139
 
-paperurl: 
+paperurl: /files/26-icse24-gui-bl.pdf
 package: 
 notes: 
 distinction: 

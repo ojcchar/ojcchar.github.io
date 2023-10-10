@@ -6,6 +6,7 @@ date: 2016-01-18
 ---
 
 * 46th ACM/IEEE International Conference on Software Engineering (ICSE’24): Research Track
+* 39th IEEE International Conference on Software Maintenance and Evolution (ICSME’23): Research Track
 * 31st IEEE/ACM International Conference on Program Comprehension (ICPC’23): Research Track
 * 31st ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE'23): Research Track
 * 45th ACM/IEEE International Conference on Software Engineering (ICSE’23): Research Track
