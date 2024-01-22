@@ -10,8 +10,8 @@ pages: "(to appear)"
 date: 2024-04-03
 doiurl: 
 
-paperurl: 
-package: 
+paperurl: /files/28-icse24-vid-dupl.pdf
+package: https://doi.org/10.5281/zenodo.10455811
 notes: 
 distinction: 
 ---
