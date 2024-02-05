@@ -1,3 +1,7 @@
+fse24:
+    acronym: FSE'24
+    name: "Proceedings of the ACM International Conference on the Foundations of Software Engineering"
+    url: https://2024.esec-fse.org/
 icse24:
     acronym: ICSE'24
     name: "Proceedings of the 46th IEEE/ACM International Conference on Software Engineering"
