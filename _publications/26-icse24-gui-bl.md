@@ -11,7 +11,7 @@ date: 2024-04-01
 doiurl: https://doi.org/10.1145/3597503.3608139
 
 paperurl: /files/26-icse24-gui-bl.pdf
-package: 
+package: https://github.com/SageSELab/UI-Bug-Localization-Study
 notes: 
 distinction: 
 ---

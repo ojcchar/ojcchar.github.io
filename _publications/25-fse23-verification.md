@@ -6,7 +6,7 @@ title: "On the Relationship between Code Verifiability and Understandability"
 authors: "<u>Kobi Feldman</u>, Martin Kellogg, and **Oscar Chaparro**"
 venue_key: fse23
 track:
-pages: "(to appear)"
+pages: "211–223"
 date: 2023-11-01
 doiurl: https://doi.org/10.1145/3611643.3616242
 

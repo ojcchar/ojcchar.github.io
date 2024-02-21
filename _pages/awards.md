@@ -6,16 +6,17 @@ author_profile: true
 
 ## Research grants
 
-* **NSF. CAREER: Informed Decision Making for Software Change** ([CCF-2239107](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2239107){:target="_blank"}). PI: **Oscar Chaparro**. Dates: June 1, 2023 - May 30, 2028
+* **NSF. CAREER: Informed Decision Making for Software Change** ([CCF-2239107](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2239107){:target="_blank"}). PI: **Oscar Chaparro**.  June 1, 2023 - May 30, 2028
 
-* **NSF. DASS: Enabling Comprehensive and Interactive Open Source Software License Compliance** ([CCF-2217733](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2217733){:target="_blank"}). PIs: Denys Poshyvanyk, **Oscar Chaparro**, Laura Heymann. Dates: Oct 1, 2022 - Sept 30, 2025
+* **NSF. DASS: Enabling Comprehensive and Interactive Open Source Software License Compliance** ([CCF-2217733](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2217733){:target="_blank"}). PIs: Denys Poshyvanyk, **Oscar Chaparro**, Laura Heymann. Oct 1, 2022 - Sept 30, 2025
 
-* **NSF. Collaborative Research: SHF: Medium: Bug Report Management 2.0** ([CCF-1955853](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1955853&HistoricalAwards=false){:target="_blank"}). PIs: Denys Poshyvanyk, Andrian Marcus, **Oscar Chaparro**, Kevin Moran. Dates: Oct 1, 2020 - Sept 30, 2024
+* **NSF. Collaborative Research: SHF: Medium: Bug Report Management 2.0** ([CCF-1955853](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1955853&HistoricalAwards=false){:target="_blank"}). PIs: Denys Poshyvanyk, Andrian Marcus, **Oscar Chaparro**, Kevin Moran. Oct 1, 2020 - Sept 30, 2024
 
 
 ## Honors and Awards
 
 * Distinguished Reviewer Award, at the 39th IEEE International Conference on Software Maintenance and Evolution (ICSME’23), 2023
+* Distinguished Service Award, at the IEEE/ACM 2nd Intl. Workshop on Natural Language-Based Software Engineering (NLBSE'24), 2024
 * Distinguished Reviewer Award, at the 30th IEEE/ACM International Conference on Program Comprehension (ICPC’23), 2023
 * Distinguished Reviewer Award, at the 30th IEEE/ACM International Conference on Program Comprehension (ICPC’22), 2022
 * Distinguished Reviewer Award, at the 37th IEEE International Conference on Software Maintenance and Evolution (ICSME’21), 2021	
