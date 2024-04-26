@@ -12,7 +12,7 @@ I am an Assistant Professor of [Computer Science](https://www.wm.edu/as/computer
 I lead the [**S**oftware **E**volution and **A**nalysis (**SEA**)](lab/) Lab, which conducts research in software maintenance and evolution, program comprehension, code refactoring, code quality, code documentation, developer's productivity, and text analysis applied to software engineering (SE).
 
 While my research spans multiple SE topics, my **current research focus** is on:
-1. automating bug reporting, triage, and resolution (*aka* automate bug report management)
+1. automating bug reporting, triage, and resolution (*aka* automated bug report management)
 2. recovering and managing the knowledge produced by stakeholders in software artifacts to improve software quality and code change tasks (e.g., code refactoring)
 3. automating and managing the software supply chain (emphasis on licensing and software evolution)
 
