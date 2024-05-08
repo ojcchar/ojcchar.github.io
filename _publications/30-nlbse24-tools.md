@@ -7,7 +7,7 @@ authors: "Rafael Kallis, Giuseppe Colavito, Ali Al-Kaswan, Luca Pascarella, **Os
 venue_key: "nlbse24"
 track: Tool competition summary
 pages: "1-8"
-date: 2024-06-01
+date: 2024-01-01
 doiurl: 
 
 paperurl: /files/30-nlbse24-tools.pdf

@@ -7,7 +7,7 @@ authors: "Rafael Kallis, Maliheh Izadi, Luca Pascarella, **Oscar Chaparro**, and
 venue_key: "nlbse23"
 track: Tool competition summary
 pages: "1-8"
-date: 2023-06-01
+date: 2023-01-01
 doiurl: https://doi.org/10.1109/NLBSE59153.2023.00007
 
 paperurl: /files/24-nlbse23-tools.pdf
