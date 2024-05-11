@@ -9,7 +9,7 @@ venue_key: unal2
 track: 'Book Chapter'
 pages: "127–157"
 date: 2012-10-01
-doiurl: https://www.uneditorial.com/research-topics-in-software-evolution-and-maintenance-ingenieria-de-sistemas-1.html
+doiurl: https://unilibros.co/gpd-research-topics-in-software-evolution-and-maintenance.html
 
 paperurl: https://books.google.com/books/about/Research_topics_in_software_evolution_an.html?id=KW5B8y0OWWEC
 notes:

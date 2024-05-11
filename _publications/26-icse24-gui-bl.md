@@ -6,7 +6,7 @@ title: "On Using GUI Interaction Data to Improve Text Retrieval-based Bug Locali
 authors: "Junayed Mahmud, <u>Nadeeshan De Silva</u>, Safwat Ali Khan, Seyed Hooman Mostafavi, S M Hasan Mansur, **Oscar Chaparro**, Andrian Marcus, and Kevin Moran"
 venue_key: "icse24"
 track: 
-pages: "(to appear)"
+pages: "1-13"
 date: 2024-04-01
 doiurl: https://doi.org/10.1145/3597503.3608139
 

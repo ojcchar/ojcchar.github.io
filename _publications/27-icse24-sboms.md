@@ -6,7 +6,7 @@ title: "BOMs Away! Inside the Minds of Stakeholders: A Comprehensive Study of Bi
 authors: "<u>Trevor Stalnaker</u>, <u>Nathan Wintersgill</u>, **Oscar Chaparro**, Massimiliano Di Penta, Daniel German, and Denys Poshyvanyk"
 venue_key: "icse24"
 track: 
-pages: "(to appear)"
+pages: "1-13"
 date: 2024-04-02
 doiurl: https://doi.org/10.1145/3597503.3623347
 

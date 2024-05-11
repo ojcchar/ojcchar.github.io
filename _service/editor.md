@@ -5,4 +5,4 @@ venue: ""
 date: 2016-01-18
 ---
 
-* Co-editor of NLBSE’22 special issue, Journal of Science of Computer Programming (SCP), Elsevier, 2022
+* Co-editor of NLBSE’22 special issue, Journal of Science of Computer Programming (**SCP**), Elsevier, 2022
