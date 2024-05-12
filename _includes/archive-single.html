@@ -54,6 +54,8 @@
 	  </p>
     {% endif %}
 	
+
+		{% if post.date %}
     <p class="archive_link_info">
 		&nbsp;<i class="fa fa-info-circle"></i>&nbsp;
 		{% if post.track %}
@@ -84,6 +86,7 @@
 		{% endif %}
 	
 	</p>
+  {% endif %}
     
 	
     {% if post.notes %}
