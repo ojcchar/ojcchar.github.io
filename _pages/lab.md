@@ -71,6 +71,10 @@ author_profile: true
 
 <small>(*) Co-advised with Denys Poshyvanyk</small>
 
+## Master Students
+
+- Grant Enderson
+
 ## Undergraduate Students
 
 - Kobi Feldman
