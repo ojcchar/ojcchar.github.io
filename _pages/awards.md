@@ -6,6 +6,8 @@ author_profile: true
 
 ## Research grants
 
+* **NSF. Collaborative Research: SHF: Small: Verification-guided Assessment and Reduction of Code Complexity** (CCF-2414111). PIs: Martin Kellogg, **Oscar Chaparro**. (Recommended for funding)
+
 * **NSF. CAREER: Informed Decision Making for Software Change** ([CCF-2239107](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2239107){:target="_blank"}). PI: **Oscar Chaparro**.  June 1, 2023 - May 30, 2028
 
 * **NSF. DASS: Enabling Comprehensive and Interactive Open Source Software License Compliance** ([CCF-2217733](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2217733){:target="_blank"}). PIs: Denys Poshyvanyk, **Oscar Chaparro**, Laura Heymann. Oct 1, 2022 - Sept 30, 2025
@@ -15,6 +17,7 @@ author_profile: true
 
 ## Honors and Awards
 
+* **ACM SIGSOFT Distinguished Paper Award**, at the ACM International Conference on the Foundations of Software Engineering (**FSE'24**), 2024
 * **Distinguished Reviewer Award**, at the 46th ACM/IEEE International Conference on Software Engineering (**ICSE’24**), 2024
 * **Distinguished Reviewer Award**, at the 39th IEEE International Conference on Software Maintenance and Evolution (**ICSME’23**), 2023
 * **Distinguished Service Award**, at the IEEE/ACM 2nd Intl. Workshop on Natural Language-Based Software Engineering (**NLBSE'24**), 2024

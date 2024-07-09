@@ -24,15 +24,6 @@ author_profile: true
 <div class="row" >
   <div class="col-lg-2 col-md-3">
   	<figure class="figure">
-		<a href="https://ysong10.github.io/" target="_blank">
-		<img src="/images/lab/yang.png" class="img-responsive img-fluid rounded" alt="Image"></a>
-		<figcaption class="caption text-center">
-			Yang Song
-		</figcaption>
-	</figure>
-  </div>
-  <div class="col-lg-2 col-md-3">
-  	<figure class="figure">
 		<a href="https://antu-saha.github.io/" target="_blank">
 		<img src="/images/lab/antu.png" class="img-responsive img-fluid rounded" alt="Image"></a>
 		<figcaption class="caption text-center">
@@ -71,10 +62,15 @@ author_profile: true
 
 <small>(*) Co-advised with Denys Poshyvanyk</small>
 
-## Master Students
+## Past Ph.D. Students
 
-- Grant Enderson
 
-## Undergraduate Students
+- [Yang Song](https://ysong10.github.io/){:target="_blank"} (2020 – 2024), **Dissertation**: Automated Bug Report Management to Enhance Software Development, **First position after graduation**: Co-founder at AiMoray
 
-- Kobi Feldman
+## Past Master Students
+
+- Grant Enderson (2023 – 2024), **Research project**: AI-Assisted Generation of Software Bills of Materials for Python Projects
+
+## Past Undergraduate Students
+
+- Kobi Feldman (2022 – 2023), **Research project**: On the Relationship Between Code Verifiability and Understandability

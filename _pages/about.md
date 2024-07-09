@@ -25,17 +25,19 @@ Take a look at my [publications](publications/) to know more about my research.
 
 ***RECENT NEWS*** 
 
-1. (May 2024) [Yang Song](lab/) defended her [PhD thesis](files/theses/2024-Yang-MS-Bugrep-management.pdf){:target="_blank"} on Automated Bug Report Management
-2. (April 2024) I received a Distinguished Reviewer Award at [ICSE'24](service/)
-3. (January 2024) Paper on Open Source Licensing accepted at [FSE'24](publications/) 
-4. (November 2023) [Nathan Wintersgill](lab/) defended his [MS thesis](files/theses/2023-Nathan-MS-Licensing.pdf){:target="_blank"} on Open Source Licensing
-5. (October 2023) Paper on Duplicate Video Bug Report Detection accepted at [ICSE'24](publications/) 
-6. (August 2023) Paper on Software Bill of Materials accepted at [ICSE'24](publications/) 
-7. (July 2023) [Trevor Stalknaker](lab/) defended his [MS thesis](files/theses/2023-Trevor-MS-SBOMs.pdf){:target="_blank"} on Software Bill of Materials
-8. (July 2023) Paper on Code Verifiability and Understandability accepted at [ESEC/FSE'23](publications/)
-9. (June 2023) Paper on GUI-based Bug Localization accepted at [ICSE'24](publications/)
-10. (March 2023) I got an [NSF CAREER award](awards/) on Informed Decision Making for Software Change ([W&M News article](https://www.wm.edu/as/computerscience/about-contactus/news/two-nsf-career-awards-in-2023-recognize-wm-leadership-in-computer-science.php){:target="_blank"})
-11. (January 2023) Tool demo paper on Interactive Bug Reporting accepted at [ICSE'23](publications/)
+1. (June 2024) Paper on Buggy UI Localization accepted at [ISSTA'24](publications/) 
+2. (June 2024) Our [FSE'24](publications/) paper on Open Source Licensing won an *ACM SIGSOFT Distinguished Paper Award*
+3. (May 2024) [Yang Song](lab/) defended her [PhD thesis](files/theses/2024-Yang-MS-Bugrep-management.pdf){:target="_blank"} on Automated Bug Report Management
+4. (April 2024) I received a Distinguished Reviewer Award at [ICSE'24](service/)
+5. (January 2024) Paper on Open Source Licensing accepted at [FSE'24](publications/) 
+6. (November 2023) [Nathan Wintersgill](lab/) defended his [MS thesis](files/theses/2023-Nathan-MS-Licensing.pdf){:target="_blank"} on Open Source Licensing
+7. (October 2023) Paper on Duplicate Video Bug Report Detection accepted at [ICSE'24](publications/) 
+8. (August 2023) Paper on Software Bill of Materials accepted at [ICSE'24](publications/) 
+9. (July 2023) [Trevor Stalknaker](lab/) defended his [MS thesis](files/theses/2023-Trevor-MS-SBOMs.pdf){:target="_blank"} on Software Bill of Materials
+10. (July 2023) Paper on Code Verifiability and Understandability accepted at [ESEC/FSE'23](publications/)
+11. (June 2023) Paper on GUI-based Bug Localization accepted at [ICSE'24](publications/)
+12. (March 2023) I got an [NSF CAREER award](awards/) on Informed Decision Making for Software Change ([W&M News article](https://www.wm.edu/as/computerscience/about-contactus/news/two-nsf-career-awards-in-2023-recognize-wm-leadership-in-computer-science.php){:target="_blank"})
+13. (January 2023) Tool demo paper on Interactive Bug Reporting accepted at [ICSE'23](publications/)
 
 ***IMPORTANT ADS*** 
 
