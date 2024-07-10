@@ -25,7 +25,7 @@ Take a look at my [publications](publications/) to know more about my research.
 
 ***RECENT NEWS*** 
 
-1. (June 2024) Paper on Buggy UI Localization accepted at [ISSTA'24](publications/) 
+1. (July 2024) Paper on Buggy UI Localization accepted at [ISSTA'24](publications/) 
 2. (June 2024) Our [FSE'24](publications/) paper on Open Source Licensing won an *ACM SIGSOFT Distinguished Paper Award*
 3. (May 2024) [Yang Song](lab/) defended her [PhD thesis](files/theses/2024-Yang-MS-Bugrep-management.pdf){:target="_blank"} on Automated Bug Report Management
 4. (April 2024) I received a Distinguished Reviewer Award at [ICSE'24](service/)

@@ -69,7 +69,7 @@ author_profile: true
 
 ## Past Master Students
 
-- Grant Enderson (2023 – 2024), **Research project**: AI-Assisted Generation of Software Bills of Materials for Python Projects
+- Grant Enderson (2023 – 2024), **Research project**: AI-Assisted Generation of Software Bills of Materials for Python Projects, **First position after graduation**: software engineer intern at Radix Health
 
 ## Past Undergraduate Students
 
