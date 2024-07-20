@@ -6,7 +6,7 @@ title: "\"The Law Doesn't Work Like a Computer\": Exploring Software Licensing I
 authors: "<u>Nathan Wintersgill</u>, <u>Trevor Stalnaker</u>, Laura A. Heymann, **Oscar Chaparro**, and Denys Poshyvanyk"
 venue_key: "fse24"
 track: 
-pages: "(to appear)"
+pages: "PACMSE Vol. 1, FSE, Article 40"
 date: 2024-07-02
 doiurl: https://doi.org/10.1145/3643766
 

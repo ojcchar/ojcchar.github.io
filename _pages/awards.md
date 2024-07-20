@@ -6,7 +6,7 @@ author_profile: true
 
 ## Research grants
 
-* **NSF. Collaborative Research: SHF: Small: Verification-guided Assessment and Reduction of Code Complexity** (CCF-2414111). PIs: Martin Kellogg, **Oscar Chaparro**. (Recommended for funding)
+* **NSF. Collaborative Research: SHF: Small: Verification-guided Assessment and Reduction of Code Complexity** ([CCF-2414111](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2414111){:target="_blank"}). PIs: Martin Kellogg, **Oscar Chaparro**. Aug 1, 2024 - July 31, 2027
 
 * **NSF. CAREER: Informed Decision Making for Software Change** ([CCF-2239107](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2239107){:target="_blank"}). PI: **Oscar Chaparro**.  June 1, 2023 - May 30, 2028
 
