@@ -1,5 +1,5 @@
 ---
-title: "Editor of Journal Special Issues"
+title: "Journal Editor"
 collection: service
 venue: ""
 date: 2016-01-18
