@@ -27,7 +27,7 @@ Take a look at my [publications](publications/) to know more about my research.
 
 1. (July 2024) New [NSF grant](awards/) on Verification-guided Assessment and Reduction of Code Complexity
 2. (July 2024) Paper on Buggy UI Localization accepted at [ISSTA'24](publications/) 
-3. (June 2024) Our [FSE'24](publications/) paper on Open Source Licensing won an **ACM SIGSOFT Distinguished Paper Award**
+3. (June 2024) Our [FSE'24](publications/) paper on Open Source Licensing won an **ACM SIGSOFT Distinguished Paper Award** ([W&M News article](https://www.wm.edu/as/computerscience/about-contactus/news/cs-and-law-researchers-win-a-distinguished-paper-award-at-fse24.php){:target="_blank"})
 4. (May 2024) [Yang Song](lab/) defended her [PhD thesis](files/theses/2024-Yang-MS-Bugrep-management.pdf){:target="_blank"} on Automated Bug Report Management
 5. (April 2024) I received a Distinguished Reviewer Award at [ICSE'24](service/)
 6. (January 2024) Paper on Open Source Licensing accepted at [FSE'24](publications/) 
