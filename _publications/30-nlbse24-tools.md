@@ -6,9 +6,9 @@ title: "The NLBSE'24 Tool Competition"
 authors: "Rafael Kallis, Giuseppe Colavito, Ali Al-Kaswan, Luca Pascarella, **Oscar Chaparro**, and Pooja Rani"
 venue_key: "nlbse24"
 track: Tool competition summary
-pages: "(to appear)"
+pages: "33–40"
 date: 2024-01-01
-doiurl: 
+doiurl: https://doi.org/10.1145/3643787.3648038
 
 paperurl: /files/30-nlbse24-tools.pdf
 package: 
