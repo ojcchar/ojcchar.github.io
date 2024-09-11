@@ -6,7 +6,7 @@ title: "Toward the Automated Localization of Buggy Mobile App UIs from Bug Descr
 authors: "<u>Antu Saha</u>, <u>Yang Song</u>, Junayed Mahmud, Ying Zhou, Kevin Moran, and **Oscar Chaparro**"
 venue_key: "issta24"
 track: 
-pages: "(to appear)"
+pages: "1249–1261"
 date: 2024-09-02
 doiurl: https://doi.org/10.1145/3650212.3680357
 
