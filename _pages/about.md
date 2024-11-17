@@ -25,7 +25,7 @@ Take a look at my [publications](publications/) to know more about my research.
 
 ***RECENT NEWS*** 
 
-1. (Nov 2024) Paper on Developer Issues on Hybrid Quantum-Classical Systems accepted at [ICSE'25](publications/) 
+1. (Nov 2024) Paper on Issues in Hybrid Quantum-Classical Programs accepted at [ICSE'25](publications/) 
 2. (July 2024) New [NSF grant](awards/) on Verification-guided Assessment and Reduction of Code Complexity
 3. (July 2024) Paper on Buggy UI Localization accepted at [ISSTA'24](publications/) 
 4. (June 2024) Our [FSE'24](publications/) paper on Open Source Licensing won an **ACM SIGSOFT Distinguished Paper Award** ([W&M News article](https://www.wm.edu/as/computerscience/about-contactus/news/cs-and-law-researchers-win-a-distinguished-paper-award-at-fse24.php){:target="_blank"})
