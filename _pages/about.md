@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor of [Computer Science](https://www.wm.edu/as/computerscience/?svr=web){:target="_blank"} at the [College of William & Mary](https://www.wm.edu/){:target="_blank"}. 
+I am an Assistant Professor of [Computer Science](https://www.wm.edu/as/computerscience/?svr=web){:target="_blank"} at the [William & Mary](https://www.wm.edu/){:target="_blank"}. 
 
 I lead the [**S**oftware **E**volution and **A**nalysis (**SEA**)](lab/) Lab, which conducts research in software maintenance & evolution, program comprehension, refactoring, software quality, developers’ productivity, text analysis applied to software engineering (SE), software supply chain management, and legal aspects of SE.
 
-My **current research areas** is on:
+My **current research areas** are:
 1. <u>Automated bug report management</u>: automating bug reporting, triage, localization, and resolution
 2. <u>Verification-guided code refactoring and comprehension</u>: leveraging code verification techniques to guide automated code refactoring and reduce code comprehension effort
 3. <u>Informed decision making for software change</u>: process and manage code change decisions documented in software artifacts/repositories to assist developers in producing software that is less faulty, higher quality, and easier to maintain
