@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Oscar Chaparro"
 title_separator          : "-"
 name                     : &name "Oscar Chaparro"
-description              : &description "Assistant Professor at the William & Mary"
+description              : &description "Assistant Professor at William & Mary"
 url                      : https://ojcchar.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ojcchar/ojcchar.github.io"
@@ -79,7 +79,7 @@ analytics:
 author:
   name             : "Oscar Chaparro"
   avatar           : "profile.jpg"
-  bio              : "Assistant Professor at the College of William and Mary"
+  bio              : "Assistant Professor at William & Mary"
   location         : 
   employer         : 
   googlescholar    : "https://scholar.google.com/citations?user=B90VFVYAAAAJ&hl=en"
@@ -98,7 +98,7 @@ author:
   instagram        : 
   lastfm           :
   linkedin         : "ojchaparroa"
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0003-2838-685X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

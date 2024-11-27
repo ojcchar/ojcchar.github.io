@@ -14,7 +14,7 @@ I lead the [**S**oftware **E**volution and **A**nalysis (**SEA**)](lab/) Lab, wh
 My **current research areas** are:
 1. <u>Automated bug report management</u>: automating bug reporting, triage, localization, and resolution
 2. <u>Verification-guided code refactoring and comprehension</u>: leveraging code verification techniques to guide automated code refactoring and reduce code comprehension effort
-3. <u>Informed decision making for software change</u>: process and manage code change decisions documented in software artifacts/repositories to assist developers in producing software that is less faulty, higher quality, and easier to maintain
+3. <u>Informed decision making for software change</u>: processing and managing code change decisions documented in software artifacts/repositories to assist developers in producing software that is less faulty, higher quality, and easier to maintain
 4. <u>Software licensing and supply chain management</u>: automating and managing the software supply chain (emphasis on licensing and software evolution)
 
 My research employs **empirical methods**, analyzes/leverages **different software artifacts** (software bug reports, source code, online discussions, etc.), and builds on **creating, adapting, and integrating techniques** based on program analysis, software repository mining (MSR), information retrieval (IR), natural language processing (NLP), computer vision (CV), and machine/deep learning (ML/DL).
