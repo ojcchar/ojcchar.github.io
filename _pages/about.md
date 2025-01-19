@@ -25,22 +25,9 @@ Take a look at my [publications](publications/) to know more about my research.
 
 ***RECENT NEWS*** 
 
-1. (Dec 2024) Position paper on Quantum Software Engineering accepted at [Q-SE'25](publications/) 
-2. (Nov 2024) Paper on Issues in Hybrid Quantum-Classical Programs accepted at [ICSE'25](publications/) 
-3. (July 2024) New [NSF grant](awards/) on Verification-guided Assessment and Reduction of Code Complexity
-4. (July 2024) Paper on Buggy UI Localization accepted at [ISSTA'24](publications/) 
-5. (June 2024) Our [FSE'24](publications/) paper on Open Source Licensing won an **ACM SIGSOFT Distinguished Paper Award** ([W&M News article](https://www.wm.edu/as/computerscience/about-contactus/news/cs-and-law-researchers-win-a-distinguished-paper-award-at-fse24.php){:target="_blank"})
-6. (May 2024) [Yang Song](lab/) defended her [PhD thesis](files/theses/2024-Yang-PHD-Bug-Management.pdf){:target="_blank"} on Automated Bug Report Management
-7. (Apr 2024) I received a Distinguished Reviewer Award at [ICSE'24](service/)
-8. (Jan 2024) Paper on Open Source Licensing accepted at [FSE'24](publications/) 
-9. (Nov 2023) [Nathan Wintersgill](lab/) defended his [MS thesis](files/theses/2023-Nathan-MS-Licensing.pdf){:target="_blank"} on Open Source Licensing
-10. (Oct 2023) Paper on Duplicate Video Bug Report Detection accepted at [ICSE'24](publications/) 
-11. (Aug 2023) Paper on Software Bill of Materials accepted at [ICSE'24](publications/) 
-12. (July 2023) [Trevor Stalknaker](lab/) defended his [MS thesis](files/theses/2023-Trevor-MS-SBOMs.pdf){:target="_blank"} on Software Bill of Materials
-13. (July 2023) Paper on Code Verifiability and Understandability accepted at [ESEC/FSE'23](publications/)
-14. (June 2023) Paper on GUI-based Bug Localization accepted at [ICSE'24](publications/)
-15. (March 2023) I got an [NSF CAREER award](awards/) on Informed Decision Making for Software Change ([W&M News article](https://www.wm.edu/as/computerscience/about-contactus/news/two-nsf-career-awards-in-2023-recognize-wm-leadership-in-computer-science.php){:target="_blank"})
-16. (Jan 2023) Tool demo paper on Interactive Bug Reporting accepted at [ICSE'23](publications/)
+{% for item in site.data.news.main limit:10 %}
+ {{ forloop.index }}. ({{ item.date }}) {{ item.text }}
+{% endfor %}
 
 ***IMPORTANT ADS*** 
 

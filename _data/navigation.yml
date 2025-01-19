@@ -14,7 +14,10 @@ main:
     url: /teaching/    
 
   - title: "Service"
-    url: /service/     
+    url: /service/    
+
+  - title: "News"
+    url: /news/    
 
   - title: "Contact"
     url: /contact/ 

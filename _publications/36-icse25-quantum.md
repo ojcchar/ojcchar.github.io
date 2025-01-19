@@ -7,7 +7,7 @@ authors: "Jake Zappin, <u>Trevor Stalnaker</u>, **Oscar Chaparro**, and Denys Po
 venue_key: "icse25"
 track: 
 pages: "to appear"
-date: 2025-04-03
+date: 2025-04-05
 doiurl: 
 
 paperurl: /files/32-icse25-quantum.pdf

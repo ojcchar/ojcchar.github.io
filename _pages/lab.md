@@ -58,6 +58,15 @@ author_profile: true
 		</figcaption>
 	</figure>
   </div>
+  <div class="col-lg-2 col-md-3">
+  	<figure class="figure">
+		<a href="https://www.linkedin.com/in/mehedi-hasan-sun/" target="_blank">
+		<img src="/images/lab/mehedi3.png" class="img-responsive img-fluid rounded" alt="Image"></a>
+		<figcaption class="caption text-center">
+			Mehedi Sun
+		</figcaption>
+	</figure>
+  </div>
 </div>
 
 <small>(*) Co-advised with Denys Poshyvanyk</small>
@@ -74,3 +83,7 @@ author_profile: true
 ## Past Undergraduate Students
 
 - Kobi Feldman (2022 – 2023), **Research project**: On the Relationship Between Code Verifiability and Understandability
+
+## External Students
+
+- Ahmed Adnan (2023 – 2025), University of Dhaka, **Research project**: SPRINT: An Assistant for Issue Report Management

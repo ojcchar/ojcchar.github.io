@@ -1,13 +1,13 @@
 ---
 collection: publications
-permalink: /publications/33-qse25-quantum
+permalink: /publications/32-qse25-quantum
 
 title: "Bridging the Quantum Divide: Aligning Academic and Industry Goals in Software Engineering"
 authors: "Jake Zappin, <u>Trevor Stalnaker</u>, **Oscar Chaparro**, and Denys Poshyvanyk"
 venue_key: "q-se25"
 track: "Position paper"
 pages: "to appear"
-date: 2025-04-04
+date: 2025-04-01
 doiurl: 
 
 paperurl: 

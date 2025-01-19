@@ -1,3 +1,15 @@
+forge25:
+    acronym:  FORGE'25
+    name: "Proceedings of the 2nd ACM International Conference on AI Foundation Models and Software Engineering"
+    url: https://conf.researchr.org/home/forge-2025
+icpc25:
+    acronym:  ICPC'25
+    name: "Proceedings of the 33rd IEEE/ACM International Conference on Program Comprehension"
+    url: https://conf.researchr.org/home/icpc-2025
+msr25:
+    acronym:  MSR'25
+    name: "Proceedings of the 22nd IEEE/ACM International Conference on Mining Software Repositories"
+    url: https://2025.msrconf.org/
 q-se25:
     acronym:  Q-SE'25
     name: "Proceedings of the 6th International Workshop on Quantum Software Engineering"
