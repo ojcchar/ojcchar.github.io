@@ -71,6 +71,20 @@ author_profile: true
 
 <small>(*) Co-advised with Denys Poshyvanyk</small>
 
+## Undergraduate Students
+
+<div class="row" >
+  <div class="col-lg-2 col-md-3">
+  	<figure class="figure">
+		<a href="https://samrbennett.com/" target="_blank">
+		<img src="/images/lab/sam.png" class="img-responsive img-fluid rounded" alt="Image"></a>
+		<figcaption class="caption text-center">
+			Sam Bennett
+		</figcaption>
+	</figure>
+  </div>
+</div>
+
 ## Past Ph.D. Students
 
 
