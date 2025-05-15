@@ -1,3 +1,7 @@
+tosem:
+    acronym: TOSEM
+    name: "ACM Transactions on Software Engineering and Methodology"
+    url: https://dl.acm.org/journal/tosem
 forge25:
     acronym:  FORGE'25
     name: "Proceedings of the 2nd ACM International Conference on AI Foundation Models and Software Engineering"

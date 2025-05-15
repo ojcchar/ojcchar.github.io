@@ -1,10 +1,16 @@
 main:
 
+  - date: "May 2025"
+    text: "Paper on studying Copyright Issues from Generative AI for Software Developement accepted at [TOSEM](/publications/). Congrats [Nathan and Trevor](/lab/)!"
+
+  - date: "May 2025"
+    text: "I recevived a Distinguished Reviewer Award at ICPC'25! Thanks ICPC!"
+
   - date: "Apr 2025"
     text: "Congratulations to [Sam](/lab/) for receiving the W&M's [Charles Center Summer Research Grant](https://www.wm.edu/as/charlescenter/student-research/project-funding/summer/){:target='_blank'} to conduct research on interactive bug reporting"
 
   - date: "Mar 2025"
-    text: "Congratulations to [Antu](/lab/) for receiving the W&M's [International Student Achievement Award](https://www.wm.edu/as/charlescenter/student-research/project-funding/summer/){:target='_blank'} in recognition for his achievements as a W&M international student"
+    text: "Congratulations to [Antu](/lab/) for receiving the W&M's [International Student Achievement Award](https://www.wm.edu/as/charlescenter/student-research/project-funding/summer/){:target='_blank'} in recognition for his achievements as an international student"
 
   - date: "Feb 2025"
     text: "I will be an Associate Professor with tenure starting Fall 2025. Deeply thankful to my wife, students, collaborators, mentors, colleagues, letter writers, and W&M for their support. Excited for a new chapter of impactful research!"
