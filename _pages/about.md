@@ -29,12 +29,12 @@ Take a look at my [publications](publications/) to know more about my research.
  {{ forloop.index }}. ({{ item.date }}) {{ item.text }}
 {% endfor %}
 
-***IMPORTANT ADS*** 
+<!-- ***IMPORTANT ADS*** 
 
 **I am looking for motivated and skilled students (undergraduate and graduate) interested in software engineering (SE) research!**
 
 **If you are not a student at W&M, consider applying to the [CS graduate program](https://www.wm.edu/as/computerscience/graduate/admission/index.php){:target="_blank"} (Fall deadline: March 1st/15th, Spring deadline: Oct. 1st).**
 
-**Feel free to email me explaining your interest in my research & SE (attach your CV).**
+**Feel free to email me explaining your interest in my research & SE (attach your CV).** -->
 
 
