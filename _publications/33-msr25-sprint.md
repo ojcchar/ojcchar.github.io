@@ -6,9 +6,9 @@ title: "SPRINT: An Assistant for Issue Report Management"
 authors: "<u>Ahmed Adnan</u>, <u>Antu Saha</u>, and **Oscar Chaparro**"
 venue_key: "msr25"
 track: "Data and Tool Showcase Track"
-pages: "to appear"
+pages: "86-90"
 date: 2025-04-02
-doiurl: 
+doiurl: https://doi.org/10.1109/MSR66628.2025.00025
 
 paperurl: /files/33-msr25-sprint.pdf
 package: https://github.com/sea-lab-wm/sprint_issue_report_assistant_tool/tree/main/Replication%20Package

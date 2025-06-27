@@ -6,9 +6,9 @@ title: "Bridging the Quantum Divide: Aligning Academic and Industry Goals in Sof
 authors: "Jake Zappin, <u>Trevor Stalnaker</u>, **Oscar Chaparro**, and Denys Poshyvanyk"
 venue_key: "q-se25"
 track: "Position paper"
-pages: "to appear"
+pages: "43-47"
 date: 2025-04-01
-doiurl: 
+doiurl: https://doi.org/10.1109/Q-SE66736.2025.00013
 
 paperurl: /files/32-qse25-quantum.pdf
 package: 

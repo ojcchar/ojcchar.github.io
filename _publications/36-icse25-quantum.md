@@ -6,9 +6,9 @@ title: "When Quantum Meets Classical: Characterizing Hybrid Quantum-Classical Is
 authors: "Jake Zappin, <u>Trevor Stalnaker</u>, **Oscar Chaparro**, and Denys Poshyvanyk"
 venue_key: "icse25"
 track: 
-pages: "to appear"
+pages: "2931-2943"
 date: 2025-04-05
-doiurl: 
+doiurl: https://doi.org/10.1109/ICSE55347.2025.00137
 
 paperurl: /files/36-icse25-quantum.pdf
 package: https://archive.softwareheritage.org/browse/origin/directory/?origin_url=https://github.com/jakezappin/HQC_Bug_Replication

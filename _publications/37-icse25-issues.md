@@ -6,9 +6,9 @@ title: "Decoding the Issue Resolution Process In Practice via Issue Report Analy
 authors: "<u>Antu Saha</u> and **Oscar Chaparro**"
 venue_key: "icse25"
 track: 
-pages: "to appear"
+pages: "2316-2328"
 date: 2025-04-06
-doiurl: 
+doiurl: https://doi.org/10.1109/ICSE55347.2025.00241
 
 paperurl: /files/37-icse25-issues.pdf
 package: https://doi.org/10.5281/zenodo.14727541

@@ -6,9 +6,9 @@ title: "Combining Language and App UI Analysis for the Automated Assessment of B
 authors: "Junayed Mahmud, <u>Antu Saha</u>, **Oscar Chaparro**, Kevin Moran, and Andrian Marcus"
 venue_key: "icpc25"
 track: 
-pages: "to appear"
+pages: "1-12"
 date: 2025-04-04
-doiurl: 
+doiurl: https://doi.org/10.1109/ICPC66645.2025.00010
 
 paperurl: /files/35-icpc25-astrobr.pdf
 package: https://github.com/sea-lab-wm/AstroBR-Bug-Reproduction-Steps-Assessment
