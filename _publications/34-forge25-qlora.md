@@ -6,9 +6,9 @@ title: "Resource-Efficient & Effective Code Summarization"
 authors: "Saima Afrin, Joseph Call, Khai Nguyen, **Oscar Chaparro**, and Antonio Mastropaolo"
 venue_key: "forge25"
 track: 
-pages: "to appear"
+pages: "224-235"
 date: 2025-04-03
-doiurl: 
+doiurl: https://doi.org/10.1109/Forge66646.2025.00032
 
 paperurl: /files/34-forge25-qlora.pdf
 package: https://github.com/saimaafrin/QLoRA-Code-Summarization
