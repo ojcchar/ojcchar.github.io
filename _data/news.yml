@@ -1,5 +1,8 @@
 main:
 
+  - date: "July 2025"
+    text: "Tool demo paper on GUI-based Bug Localization accepted at [ICSME'25](/publications/). Congrats to the UCF team and authors, including [Nadeeshan](/lab/)!"
+
   - date: "May 2025"
     text: "I will be on sabbatical leave during the 2025-2026 academic year"
 
@@ -13,7 +16,7 @@ main:
     text: "Congratulations to [Sam](/lab/) for receiving the W&M's [Charles Center Summer Research Grant](https://www.wm.edu/as/charlescenter/student-research/project-funding/summer/){:target='_blank'} to conduct research on interactive bug reporting"
 
   - date: "Mar 2025"
-    text: "Congratulations to [Antu](/lab/) for receiving the W&M's [International Student Achievement Award](https://www.wm.edu/as/charlescenter/student-research/project-funding/summer/){:target='_blank'} in recognition for his achievements as an international student"
+    text: "Congratulations to [Antu](/lab/) for receiving the W&M's [2025 International Student Achievement Award](https://www.wm.edu/offices/revescenter/publications/worldminded/2025-summer/2025-international-student-achievement-awards.php){:target='_blank'} in recognition for his achievements as an international student"
 
   - date: "Feb 2025"
     text: "I will be an Associate Professor with tenure starting Fall 2025. Deeply thankful to my wife, students, collaborators, mentors, colleagues, letter writers, and W&M for their support. Excited for a new chapter of impactful research!"
