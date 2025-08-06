@@ -10,9 +10,9 @@ author_profile: true
 
 * **NSF. CAREER: Informed Decision Making for Software Change** ([CCF-2239107](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2239107){:target="_blank"}). PI: **Oscar Chaparro**.  June 1, 2023 - May 30, 2028
 
-* **NSF. DASS: Enabling Comprehensive and Interactive Open Source Software License Compliance** ([CCF-2217733](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2217733){:target="_blank"}). PIs: Denys Poshyvanyk, **Oscar Chaparro**, Laura Heymann. Oct 1, 2022 - Sept 30, 2025
+* **NSF. DASS: Enabling Comprehensive and Interactive Open Source Software License Compliance** ([CCF-2217733](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2217733){:target="_blank"}). PIs: Denys Poshyvanyk, **Oscar Chaparro**, Laura Heymann. Oct 1, 2022 - Sept 30, 2026
 
-* **NSF. Collaborative Research: SHF: Medium: Bug Report Management 2.0** ([CCF-1955853](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1955853&HistoricalAwards=false){:target="_blank"}). PIs: Denys Poshyvanyk, Andrian Marcus, **Oscar Chaparro**, Kevin Moran. Oct 1, 2020 - Sept 30, 2025
+* **NSF. Collaborative Research: SHF: Medium: Bug Report Management 2.0** ([CCF-1955853](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1955853&HistoricalAwards=false){:target="_blank"}). PIs: Denys Poshyvanyk, Andrian Marcus, **Oscar Chaparro**, Kevin Moran. Oct 1, 2020 - Dec 31, 2025
 
 
 ## Honors and Awards
