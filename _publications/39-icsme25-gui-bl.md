@@ -10,7 +10,7 @@ pages: "to appear"
 date: 2025-07-01
 doiurl: 
 
-paperurl: 
+paperurl: /files/39-icsme25-gui-bl.pdf
 package: 
 notes: 
 distinction: 
