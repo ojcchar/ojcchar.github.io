@@ -1,5 +1,8 @@
 main:
 
+  - date: "Aug 2025"
+    text: "Paper on Bug-Report-Based Test Oracle Generation accepted at [ASE'25](/publications/). Congrats to the authors!"
+
   - date: "July 2025"
     text: "Tool demo paper on GUI-based Bug Localization accepted at [ICSME'25](/publications/). Congrats to the UCF team and authors, including [Nadeeshan](/lab/)!"
 
