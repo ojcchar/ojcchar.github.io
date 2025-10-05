@@ -10,8 +10,8 @@ pages: "to appear"
 date: 2025-08-01
 doiurl: 
 
-paperurl: 
-package: 
+paperurl: /files/40-ase25-br-oracles.pdf
+package: https://zenodo.org/records/15556567
 notes: 
 distinction: 
 toolurl: 
