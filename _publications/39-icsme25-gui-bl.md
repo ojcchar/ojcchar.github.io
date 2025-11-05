@@ -6,9 +6,9 @@ title: "LadyBug: A GitHub Bot for UI-Enhanced Bug Localization in Mobile Apps"
 authors: "Junayed Mahmud, James Chen, Terry Achille, Camilo Alvarez-Velez, Darren Dean Bansil, Patrick Ijieh, Samar Karanch, <u>Nadeeshan De Silva</u>, **Oscar Chaparro**, Andrian Marcus, and Kevin Moran"
 venue_key: "icsme25"
 track: Tool demo track
-pages: "to appear"
+pages: "940-944"
 date: 2025-07-01
-doiurl: 
+doiurl: https://doi.org/10.1109/ICSME64153.2025.00111
 
 paperurl: /files/39-icsme25-gui-bl.pdf
 package: 
