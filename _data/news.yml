@@ -1,5 +1,11 @@
 main:
 
+  - date: "Dec 2025"
+    text: "Congrats to [Antu, Mehedi, and Nadeeshan](/lab/) for their doctoral symposium extended abstract accepted at ICSE'26!"
+
+  - date: "Dec 2025"
+    text: "Paper on studying challenges and practices in quantum software testing and debugging accepted at [TOSEM](/publications/). Congrats [Trevor and co-authors](/lab/)!"
+
   - date: "Oct 2025"
     text: "Paper on studying the ML/AI Supply Chain in Hugging Face accepted at [TOSEM](/publications/). Congrats [Nathan and Trevor](/lab/)!"
 
