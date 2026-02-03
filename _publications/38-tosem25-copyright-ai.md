@@ -6,8 +6,9 @@ title: "Developer Perspectives on Licensing and Copyright Issues Arising from Ge
 authors: "<u>Trevor Stalnaker</u>, <u>Nathan Wintersgill</u>, **Oscar Chaparro**, Laura A. Heymann, Massimiliano Di Penta, Daniel M German, and Denys Poshyvanyk"
 venue_key: "tosem"
 track: 
-pages: "to appear"
-date: 2025-05-06
+volume: 35(2)
+pages: "1-39 (Art. 55)"
+date: 2026-01-21
 doiurl: https://doi.org/10.1145/3743133
 
 paperurl: /files/38-tosem25-copyright-ai.pdf
