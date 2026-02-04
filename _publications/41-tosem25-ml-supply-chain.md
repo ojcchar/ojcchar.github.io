@@ -7,7 +7,7 @@ authors: "<u>Trevor Stalnaker</u>, <u>Nathan Wintersgill</u>, **Oscar Chaparro**
 venue_key: "tosem"
 track: 
 pages: "to appear"
-date: 2025-10-06
+date: 2026-10-07
 doiurl:  https://doi.org/10.1145/3776739
 
 paperurl: /files/41-tosem25-ml-supply-chain.pdf
