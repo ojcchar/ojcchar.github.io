@@ -6,9 +6,9 @@ title: "Generating Failure-Based Oracles to Support Testing of Reported Bugs in 
 authors: "Jack Johnson, Junayed Mahmud, **Oscar Chaparro**, Kevin Moran, and Mattia Fazzini"
 venue_key: "ase25"
 track: 
-pages: "to appear"
+pages: "2196-2208"
 date: 2025-08-01
-doiurl: 
+doiurl: https://doi.org/10.1109/ASE63991.2025.00182
 
 paperurl: /files/40-ase25-br-oracles.pdf
 package: https://zenodo.org/records/15556567
