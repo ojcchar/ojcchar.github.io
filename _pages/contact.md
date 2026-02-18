@@ -8,7 +8,7 @@ author_profile: true
 Email: oscarch [at] wm [dot] edu   
 Department of Computer Science  
 William & Mary  
-McGlothlin-Street Hall 311  
-251 Jamestown Rd.  
+ISC4 2325  
+540 Landrum Dr 
 Williamsburg, VA 23185, USA  
 
