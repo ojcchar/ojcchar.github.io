@@ -7,7 +7,7 @@ authors: "Jake Zappin, <u>Trevor Stalnaker</u>, **Oscar Chaparro**, and Denys Po
 venue_key: "tosem"
 track: 
 pages: "to appear"
-date: 2026-12-06
+date: 2026-04-02
 doiurl: 
 
 paperurl: /files/42-tosem25-quantum-test-debug.pdf
