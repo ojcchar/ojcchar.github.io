@@ -10,8 +10,8 @@ pages: "(to appear)"
 date: 2026-04-04
 doiurl: 
 
-paperurl: 
-package: 
+paperurl: /files/43-ease26-ml-verif-warnings.pdf
+package: https://github.com/sea-lab-wm/warning-comprehensibility
 notes: 
 distinction: 
 toolurl: 
