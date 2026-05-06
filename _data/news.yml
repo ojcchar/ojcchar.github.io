@@ -1,7 +1,7 @@
 main:
 
   - date: "May 2026"
-    text: "Congrats to [Nathan](/lab/) for receiving a [2026 Virginia Space Grant Consortium Graduate Research STEM Fellowship](https://vsgc.odu.edu/graduatefellowships/) for his work on AI/ML supply chain analysis!"
+    text: "Congrats to [Nathan](/lab/) for receiving a [2026 Virginia Space Grant Consortium Graduate Research STEM Fellowship](https://vsgc.odu.edu/graduatefellowships/){:target='_blank'} for his work on AI/ML supply chain analysis!"
 
   - date: "Apr 2026"
     text: "Paper on leveraging verifiers for code comprehensibility prediction accepted at [EASE'26](/publications/). Congrats [Nadeeshan](/lab/)!"
