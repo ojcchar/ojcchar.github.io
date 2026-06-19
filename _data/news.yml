@@ -1,10 +1,10 @@
 main:
 
   - date: "June 2026"
-    text: "Paper on assesment of code comprehensibility proxies accepted at [ASE'26](/publications/). Congrats [Nadeeshan](/lab/) and the team!"
+    text: "Paper on evaluating code comprehensibility proxies accepted at [ASE'26](/publications/). Congrats [Nadeeshan](/lab/) and the team!"
 
   - date: "June 2026"
-    text: "Paper on assesment of visual bias in visual LLMs accepted at [ASE'26](/publications/). Congrats to the team!"
+    text: "Paper on assessing visual bias in multimodal LLMs for SE accepted at [ASE'26](/publications/). Congrats to the team!"
 
   - date: "May 2026"
     text: "Congrats to [Nathan](/lab/) for receiving a [2026 Virginia Space Grant Consortium Graduate Research STEM Fellowship](https://vsgc.odu.edu/graduatefellowships/){:target='_blank'} for his work on AI/ML supply chain analysis!"
