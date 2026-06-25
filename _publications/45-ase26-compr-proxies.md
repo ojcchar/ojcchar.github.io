@@ -1,13 +1,13 @@
 ---
 collection: publications
-permalink: /publications/40-ase25-br-oracles
+permalink: /publications/45-ase26-compr-proxies
 
 title: "On the Reliability of Code Comprehension Proxies"
 authors: "Erfan Arvan, <u>Nadeeshan De Silva</u>, **Oscar Chaparro**, and Martin Kellogg"
 venue_key: "ase26"
 track: 
 pages: "(to appear)"
-date: 2026-06-02
+date: 2026-06-07
 doiurl: 
 
 paperurl: 
