@@ -1,6 +1,6 @@
 ---
 collection: publications
-permalink: /publications/40-ase25-br-oracles
+permalink: /publications/44-ase26-bias_vlms
 
 title: "Pattern Over Pixels: Measuring Pattern Completion Bias in Multimodal Code Generation"
 authors: "Khai Nguyen, **Oscar Chaparro**, and Antonio Mastropaolo"
