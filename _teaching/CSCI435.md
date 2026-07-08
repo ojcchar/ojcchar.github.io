@@ -1,5 +1,5 @@
 ---
-title: "CSCI 435/535 - Software Maintenance and Evolution"
+title: "CSCI 435/535 - Software Engineering"
 permalink: /teaching/csci435
 collection: teaching
 venue: ""
