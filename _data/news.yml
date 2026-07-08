@@ -1,4 +1,9 @@
 main:
+  - date: "July 2026"
+    text: "New [NSF grant](/awards/) on Automated and Explainable Provenance of AI-Generated Code! Thanks NSF and congrats to the [team](/lab/)!"
+
+  - date: "July 2026"
+    text: "Vision papers on AI/ML issue resolution and AI provenance accepted at [ICSME'26](/publications/). Congrats [Antu, Nathan, Trevor, Ahmed, Mushfiqur](/lab/) and the teams!"
 
   - date: "June 2026"
     text: "Paper on evaluating code comprehensibility proxies accepted at [ASE'26](/publications/). Congrats [Nadeeshan](/lab/) and the team!"

@@ -87,7 +87,6 @@ author_profile: true
 
 ## Past Ph.D. Students
 
-
 - [Yang Song](https://ysong10.github.io/){:target="_blank"} (2020 – 2024), **Dissertation**: Automated Bug Report Management to Enhance Software Development, **First position after graduation**: Co-founder at AiMoray
 
 ## Past Master Students
@@ -98,6 +97,8 @@ author_profile: true
 
 - Kobi Feldman (2022 – 2023), **Research project**: On the Relationship Between Code Verifiability and Understandability
 
-## External Students
+## External Mentees
 
-- Ahmed Adnan (2023 – 2025), University of Dhaka, **Research project**: SPRINT: An Assistant for Issue Report Management
+- [Ahmed Adnan](https://www.linkedin.com/in/ahmed-adnan-16765017a/){:target="_blank"} (2023 – 2026), University of Dhaka and East West University, **Research projects**: SPRINT: An Assistant for Issue Report Management, Rethinking Issue Resolution for AI/ML Systems
+- [Mushfiqur Rahman](https://www.linkedin.com/in/mushfiqur-rahman41/){:target="_blank"} (2025 - 2026), Bangladesh University of Business and Technology (BUBT), **Research projects**: Rethinking Issue Resolution for AI/ML Systems
+

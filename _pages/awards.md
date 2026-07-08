@@ -6,6 +6,8 @@ author_profile: true
 
 ## Research grants
 
+* **NSF. SHF: Small: NSF-MUR: Automated and Explainable Provenance of AI-Generated Code** ([IIS-2533367](https://www.nsf.gov/awardsearch/show-award/?AWD_ID=2533367){:target="_blank"}). PIs: **Oscar Chaparro**, Denys Poshyvanyk. July 1, 2026 - June 30 2029
+
 * **NSF. Collaborative Research: SHF: Small: Verification-guided Assessment and Reduction of Code Complexity** ([CCF-2414111](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2414111){:target="_blank"}). PIs: Martin Kellogg, **Oscar Chaparro**. Aug 1, 2024 - July 31, 2027
 
 * **NSF. CAREER: Informed Decision Making for Software Change** ([CCF-2239107](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2239107){:target="_blank"}). PI: **Oscar Chaparro**.  June 1, 2023 - May 30, 2028
