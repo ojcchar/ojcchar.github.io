@@ -5,6 +5,13 @@ venue: ""
 date: 2016-01-18
 ---
 
+* 49th ACM/IEEE International Conference on Software Engineering (**ICSE’27**): Research Track
+* 48th ACM/IEEE International Conference on Software Engineering (**ICSE’26**): New Ideas and Emerging Results Track
+* 34th ACM International Conference on the Foundations of Software Engineering (**FSE’26**): Posters Track
+* 42nd IEEE International Conference on Software Maintenance and Evolution (**ICSME’26**): Research Track, Replication and Negative Results Track, and Visions and Emerging Results Track
+* 24th IEEE/ACM International Conference on Program Comprehension (**ICPC’26**): Research Track and Early Research Achievements Track
+* 9th ACM/IEEE International Conference on Technical Debt (**TechDebt'26**): Technical Papers Track
+* 1st International Workshop on User Interface and Experience for Software Engineering (**UISE'26**)
 * 41st IEEE International Conference on Software Maintenance and Evolution (**ICSME’25**): Artifact Evaluation Track
 * 33rd ACM International Conference on the Foundations of Software Engineering (**FSE’25**): Research Track
 * 40th IEEE International Conference on Software Maintenance and Evolution (**ICSME’24**): New Ideas and Emerging Results Track
