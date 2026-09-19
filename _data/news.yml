@@ -1,8 +1,8 @@
 main:
-  - date: "September 2026"
+  - date: "Sep 2026"
     text: "New paper accepted on Automated Identification of Software Data Constraints at the [Requirements Engineering](https://link.springer.com/journal/766) journal. Congrats to all authors!"
 
-  - date: "September 2026"
+  - date: "Sep 2026"
     text: "Our paper [On the Reliability of Code Comprehension Proxies](/publications/45-ase26-compr-proxies) received an **ACM Distinguished Paper Award** at [ASE'26](https://conf.researchr.org/home/ase-2026)! Congrats to all authors!"
 
   - date: "July 2026"
