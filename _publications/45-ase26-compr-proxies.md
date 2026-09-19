@@ -8,10 +8,10 @@ venue_key: "ase26"
 track: 
 pages: "(to appear)"
 date: 2026-06-27
-doiurl: 
+doiurl: https://doi.org/10.1145/3832783.3834425
 
-paperurl: 
-package: 
+paperurl: /files/45-ase26-compr-proxies.pdf
+package: https://zenodo.org/records/21218362
 notes: 
 distinction: "ACM Distinguished Paper Award"
 toolurl: 

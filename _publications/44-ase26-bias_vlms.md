@@ -8,10 +8,10 @@ venue_key: "ase26"
 track: 
 pages: "(to appear)"
 date: 2026-06-15
-doiurl: 
+doiurl: https://doi.org/10.1145/3832783.3834443
 
-paperurl: 
-package: 
+paperurl: /files/44-ase26-bias_vlms.pdf
+package: https://pattern2code.github.io/
 notes: 
 distinction: 
 toolurl: 

@@ -11,10 +11,10 @@ author_profile: true
   </div>
   <div class="col-12 col-sm-8">
 	<p  markdown="1">
-	Th **S**oftware **E**volution and **A**nalysis (**SEA**) Lab develops techniques, tools, and methodologies that help developers efficiently understand, design, build, and maintain high-quality software systems.
+	Th **S**oftware **E**volution and **A**nalysis (**SEA**) Lab investigates the challenges developers face when maintaining and evolving software, and develops AI-assisted techniques and tools to address them: from managing bug reports and understanding code, to navigating licensing, supply chains, and AI-generated artifacts.
 	</p>
 	<p>
-	Our research analyzes and leverages software artifacts (bug reports, source code, online discussions, etc.) and builds on creating, adapting, and integrating techniques based on program analysis, software repository mining (MSR), information retrieval (IR), natural language processing (NLP), and machine/deep learning (ML/DL).
+	Our research employs empirical methods, analyzes diverse software artifacts (bug reports, source code, online discussions, AI-generated code, etc.), and builds on creating, adapting, and integrating techniques from program analysis, software repository mining (MSR), information retrieval (IR), natural language processing (NLP), computer vision (CV), and machine/deep learning (ML/DL). We are also investigating agentic software engineering: engineering AI agents to effectivelly automate complex SE tasks.
 	</p>
   </div>
 </div>
@@ -77,9 +77,10 @@ author_profile: true
   </div>
 </div>
 
-## Undergraduate Students
+## Undergraduate and other Students
 
-- Justen Hilliard
+- Justen Hilliard (Undergraduate student)
+- Takashi Idobe (Non-degree-seeking graduate student)
 
 ## Past Ph.D. Students
 

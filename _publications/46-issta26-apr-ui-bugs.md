@@ -8,10 +8,10 @@ venue_key: "issta26"
 track: 
 pages: "(to appear)"
 date: 2026-06-20
-doiurl: 
+doiurl: https://doi.org/10.1145/3832272
 
-paperurl: 
-package: 
+paperurl: /files/46-issta26-apr-ui-bugs.pdf
+package: https://github.com/SageSELab/UI-Program-Repair
 notes: 
 distinction: 
 ---

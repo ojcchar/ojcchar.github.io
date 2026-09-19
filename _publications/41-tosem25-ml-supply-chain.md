@@ -6,7 +6,8 @@ title: "An Empirical Analysis of Machine Learning Model and Dataset Documentatio
 authors: "<u>Trevor Stalnaker</u>, <u>Nathan Wintersgill</u>, **Oscar Chaparro**, Laura A. Heymann, Massimiliano Di Penta, Daniel M German, and Denys Poshyvanyk"
 venue_key: "tosem"
 track: 
-pages: "to appear"
+volume: 35(2)
+pages: "1-49 (Art. 218)"
 date: 2026-04-01
 doiurl:  https://doi.org/10.1145/3776739
 

@@ -7,17 +7,19 @@ redirect_from:
   - /about.html
 ---
 
-I am a "Wilson & Martha Claiborn Stephens" Associate Professor and the Director of AI Innovation in the [Computer Science Department](https://www.wm.edu/as/computerscience/?svr=web){:target="_blank"} at [William & Mary](https://www.wm.edu/){:target="_blank"}. 
+I am a Wilson & Martha Claiborn Stephens Associate Professor and the Director of AI Innovation in the [Computer Science Department](https://www.wm.edu/as/computerscience/?svr=web){:target="_blank"} at [William & Mary](https://www.wm.edu/){:target="_blank"}. 
 
-I lead the [**S**oftware **E**volution and **A**nalysis (**SEA**)](lab/) Lab, which conducts research in software maintenance & evolution, program comprehension, refactoring, software quality, developers’ productivity, text analysis applied to software engineering (SE), software supply chain management, and legal aspects of SE.
+I lead the [**S**oftware **E**volution and **A**nalysis (**SEA**)](lab/) Lab, which conducts research in software maintenance & evolution, leveraging empirical methods and AI/ML techniques to improve software quality and developer productivity.
 
 My **current research areas** are:
+0. <u>Agentic software engineering</u>: understanding how AI agents can be leveraged and engineered to better develop software and assist developers
 1. <u>Automated bug report management</u>: automating bug reporting, triage, localization, and resolution
 2. <u>Verification-guided code refactoring and comprehension</u>: leveraging code verification techniques to guide automated code refactoring and reduce code comprehension effort
 3. <u>Informed decision making for software change</u>: processing and managing code change decisions documented in software artifacts/repositories to assist developers in producing software that is less faulty, higher quality, and easier to maintain
-4. <u>Software licensing and supply chain management</u>: automating and managing the software supply chain (emphasis on licensing and software evolution)
+4. <u>Provenance and legal aspects of AI-generated code</u>: studying the provenance, copyright, and licensing implications of AI-generated software artifacts
+5. <u>Software licensing and supply chain management</u>: automating and managing open source license compliance in the software supply chain
 
-My research employs **empirical methods**, analyzes/leverages **different software artifacts** (software bug reports, source code, online discussions, etc.), and builds on **creating, adapting, and integrating techniques** based on program analysis, software repository mining (MSR), information retrieval (IR), natural language processing (NLP), computer vision (CV), and machine/deep learning (ML/DL).
+My research employs **empirical methods**, analyzes **diverse software artifacts** (software bug reports, source code, online discussions, AI-generated artifacts, etc.), and builds on **creating, adapting, and integrating techniques** from program analysis, software repository mining (MSR), information retrieval (IR), natural language processing (NLP), computer vision (CV), and machine/deep learning (ML/DL).
 
 Take a look at my [publications](publications/) to know more about my research.
 
