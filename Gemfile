@@ -26,3 +26,9 @@ group :jekyll_plugins do
   gem "jekyll-feed"
   gem 'jekyll-sitemap', :github => 'jekyll/jekyll-sitemap', :branch => 'master'
 end
+# Required explicitly for Ruby 3.4+ compatibility
+gem "csv"
+gem "base64"
+gem "bigdecimal"
+gem "logger"
+gem "webrick"

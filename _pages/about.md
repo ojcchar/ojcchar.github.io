@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Associate Professor of [Computer Science](https://www.wm.edu/as/computerscience/?svr=web){:target="_blank"} at [William & Mary](https://www.wm.edu/){:target="_blank"}. 
+I am a "Wilson & Martha Claiborn Stephens" Associate Professor and the Director of AI Innovation in the [Computer Science Department](https://www.wm.edu/as/computerscience/?svr=web){:target="_blank"} at [William & Mary](https://www.wm.edu/){:target="_blank"}. 
 
 I lead the [**S**oftware **E**volution and **A**nalysis (**SEA**)](lab/) Lab, which conducts research in software maintenance & evolution, program comprehension, refactoring, software quality, developers’ productivity, text analysis applied to software engineering (SE), software supply chain management, and legal aspects of SE.
 

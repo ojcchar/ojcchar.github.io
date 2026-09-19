@@ -19,6 +19,7 @@ author_profile: true
 
 ## Honors and Awards
 
+* **ACM Distinguished Paper Award**, at the 41st IEEE/ACM International Conference on Automated Software Engineering (**ASE'26**), 2026
 * **Distinguished Reviewer Award**, at the 33rd ACM/IEEE International Conference on Program Comprehension (**ICPC'25**), 2025
 * **ACM SIGSOFT Distinguished Paper Award**, at the ACM International Conference on the Foundations of Software Engineering (**FSE'24**), 2024
 * **Distinguished Reviewer Award**, at the 46th ACM/IEEE International Conference on Software Engineering (**ICSE’24**), 2024

@@ -14,11 +14,10 @@ venue: ""
 * Fall 2020: Tuesdays/Thursdays, 9:30 am - 10:50 am via Zoom
 * Fall 2019: Tuesdays/Thursdays, 3:30 pm - 4:50 pm at Tyler Hall 132 -->
 
+
+
 **Description**
 
-TBD
+An introduction to software engineering in the age of agentic AI, covering the principles and practices of the software development process, including requirements, design, implementation, testing, and maintenance. Students gain hands-on experience building and evolving software systems, using agentic AI tools responsibly, with emphasis on collaboration, accountability, and quality.
 
-**Reference books**
-
-TBD
-
+**Course website**: [csci-435-se.github.io](https://csci-435-se.github.io/){:target="_blank"}

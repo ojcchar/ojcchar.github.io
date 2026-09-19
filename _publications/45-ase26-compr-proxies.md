@@ -13,7 +13,7 @@ doiurl:
 paperurl: 
 package: 
 notes: 
-distinction: 
+distinction: "ACM Distinguished Paper Award"
 toolurl: 
 ---
 

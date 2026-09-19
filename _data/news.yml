@@ -1,4 +1,16 @@
 main:
+  - date: "September 2026"
+    text: "New paper accepted on Automated Identification of Software Data Constraints at the [Requirements Engineering](https://link.springer.com/journal/766) journal. Congrats to all authors!"
+
+  - date: "September 2026"
+    text: "Our paper [On the Reliability of Code Comprehension Proxies](/publications/45-ase26-compr-proxies) received an **ACM Distinguished Paper Award** at [ASE'26](https://conf.researchr.org/home/ase-2026)! Congrats to all authors!"
+
+  - date: "July 2026"
+    text: "Congrats to [Trevor](/lab/) for successfully defending his Ph.D. dissertation: *Towards Effective Supply Chain Management for Software Systems*!"
+
+  - date: "July 2026"
+    text: "Paper on assessing the quality of GitHub-generated SBOMs accepted at [SCAM'26](/publications/). Congrats [Grant, Nathan, Trevor](/lab/) and the team!"
+
   - date: "July 2026"
     text: "New [NSF grant](/awards/) on Automated and Explainable Provenance of AI-Generated Code! Thanks NSF and congrats to the [team](/lab/)!"
 

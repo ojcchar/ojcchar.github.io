@@ -31,15 +31,7 @@ author_profile: true
 		</figcaption>
 	</figure>
   </div>
-  <div class="col-lg-2 col-md-3">
-  	<figure class="figure">
-		<a href="https://www.twstalnaker.com/" target="_blank">
-		<img src="/images/lab/trevor.png" class="img-responsive img-fluid rounded" alt="Image"></a>
-		<figcaption class="caption text-center">
-			Trevor Stalnaker (*)
-		</figcaption>
-	</figure>
-  </div>
+
   <div class="col-lg-2 col-md-3">
   	<figure class="figure">
 		<a href="https://www.linkedin.com/in/nathan-wintersgill/" target="_blank">
@@ -71,7 +63,7 @@ author_profile: true
 
 <small>(*) Co-advised with Denys Poshyvanyk</small>
 
-## Undergraduate Students
+## Master Students
 
 <div class="row" >
   <div class="col-lg-2 col-md-3">
@@ -85,7 +77,13 @@ author_profile: true
   </div>
 </div>
 
+## Undergraduate Students
+
+- Justen Hilliard
+
 ## Past Ph.D. Students
+
+- [Trevor Stalnaker](https://www.twstalnaker.com/){:target="_blank"} (2021 – 2026), **Dissertation**: Towards Effective Supply Chain Management for Software Systems (PDF: TBA), **First position after graduation**: Assistant Professor, Department of Computer Science, Washington & Lee University, Lexington, VA
 
 - [Yang Song](https://ysong10.github.io/){:target="_blank"} (2020 – 2024), **Dissertation**: Automated Bug Report Management to Enhance Software Development, **First position after graduation**: Co-founder at AiMoray
 
@@ -94,6 +92,8 @@ author_profile: true
 - Grant Enderson (2023 – 2024), **Research project**: AI-Assisted Generation of Software Bills of Materials for Python Projects, **First position after graduation**: software engineer intern at Radix Health
 
 ## Past Undergraduate Students
+
+- [Sam Bennett](https://samrbennett.com/){:target="_blank"} (2024 – 2026), **Research projects**: Interactive Bug Reporting with LLMs; Automatically Enhancing Android Bug Reports with LLMs; Multimodal Duplicate Bug Report Detection
 
 - Kobi Feldman (2022 – 2023), **Research project**: On the Relationship Between Code Verifiability and Understandability
 
