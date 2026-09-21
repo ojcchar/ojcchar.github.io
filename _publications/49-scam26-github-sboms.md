@@ -5,13 +5,13 @@ permalink: /publications/49-scam26-github-sboms
 title: "Assessing the Quality of GitHub-Generated SBOMs: A Detailed Bill of Health"
 authors: "<u>Grant Enderson</u>, <u>Nathan Wintersgill</u>, <u>Trevor Stalnaker</u>, **Oscar Chaparro**, and Denys Poshyvanyk"
 venue_key: "scam26"
-track: Research Track
+track: 
 pages: "(to appear)"
 date: 2026-06-03
 doiurl: 
 
-paperurl: 
-package: 
+paperurl: /files/49-scam26-github-sboms.pdf
+package: https://archive.softwareheritage.org/browse/origin/directory/?origin_url=https://github.com/nwintersgill/sbom_quality_study&visit_type=git
 notes: 
 distinction: 
 ---
