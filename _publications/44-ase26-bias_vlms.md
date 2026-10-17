@@ -6,7 +6,7 @@ title: "Pattern Over Pixels: Measuring Pattern Completion Bias in Multimodal Cod
 authors: "Khai Nguyen, **Oscar Chaparro**, and Antonio Mastropaolo"
 venue_key: "ase26"
 track: 
-pages: "(to appear)"
+pages: "1421-1433"
 date: 2026-06-15
 doiurl: https://doi.org/10.1145/3832783.3834443
 

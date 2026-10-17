@@ -6,7 +6,7 @@ title: "On the Reliability of Code Comprehension Proxies"
 authors: "Erfan Arvan, <u>Nadeeshan De Silva</u>, **Oscar Chaparro**, and Martin Kellogg"
 venue_key: "ase26"
 track: 
-pages: "(to appear)"
+pages: "1195-1207"
 date: 2026-06-27
 doiurl: https://doi.org/10.1145/3832783.3834425
 

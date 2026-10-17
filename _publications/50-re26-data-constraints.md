@@ -6,13 +6,13 @@ title: "Towards the Automated Identification of Data Constraints in Software Doc
 authors: "Ying Zhou, Miao Miao, Vlad Birsan, **Oscar Chaparro**, Shiyi Wei, and Andrian Marcus"
 venue_key: "re"
 track: 
-volume: 
-pages: "(to appear)"
+volume: 31
+pages: "22"
 date: 2026-06-14
-doiurl: 
+doiurl: https://doi.org/10.1007/s00766-026-00472-x
 
-paperurl: 
-package: 
+paperurl: /files/50-re26-data-constraints.pdf
+package: https://zenodo.org/records/23147069
 notes: 
 distinction: 
 toolurl: 
