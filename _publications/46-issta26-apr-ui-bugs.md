@@ -5,9 +5,8 @@ permalink: /publications/46-issta26-apr-ui-bugs
 title: "Automated Program Repair for UI-centric Android Bugs: How Far are We?"
 authors: "Junayed Mahmud, Sparsh Pandey, <u>Nadeeshan De Silva</u>, Atish Kumar Dipongkor, JingJing Wu, **Oscar Chaparro**, Mattia Fazzini, and Kevin Moran"
 venue_key: "issta26"
-volume: 3
 track: 
-pages: "4143-4167"
+pages: "4143-4167, PACMSE Vol. 3, ISSTA, Article 181"
 date: 2026-06-20
 doiurl: https://doi.org/10.1145/3832272
 
